@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #666666;
+  color: #113a6e;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #2dca98;
+  color: #eec591;
   outline: none;
   text-decoration: none;
 }
@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #666666;
+  color: #113a6e;
 }
 .navbar .dropdown ul a i {
   font-size: 12px;
@@ -286,7 +286,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #666666;
+  color: #113a6e;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #2dc997;
@@ -418,7 +418,6 @@ section {
   text-align: center;
   font-weight: 700;
   margin-bottom: 5px;
-  padding-top: 40px;
 }
 .section-header .section-description {
   text-align: center;
@@ -552,7 +551,7 @@ section {
 #facts .counters span {
   font-size: 48px;
   display: block;
-  color: #2dc997;
+  color: #cd853f;
 }
 #facts .counters p {
   padding: 0;
@@ -591,7 +590,7 @@ section {
   text-align: center;
   width: 72px;
   height: 72px;
-  background: #2dc997;
+  background: #cd853f;
 }
 #services .icon a {
   display: inline-block;
@@ -691,7 +690,7 @@ section {
   font-size: 14px;
   font-weight: 500;
   line-height: 1;
-  color: #666666;
+  color: #113a6e;
   margin: 0 5px 10px 5px;
   transition: all ease-in-out 0.3s;
   background: white;
@@ -867,7 +866,7 @@ section {
 }
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #cd853f;
   float: left;
   line-height: 0;
 }
@@ -901,7 +900,7 @@ section {
   line-height: 0;
 }
 #contact .social-links a:hover {
-  background: #2dc997;
+  background: #cd853f;
   color: #fff;
 }
 #contact .php-email-form .error-message {
@@ -947,10 +946,10 @@ section {
   font-size: 14px;
 }
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
-  background-color: #2dc997;
+  background-color: #cd853f;
 }
 #contact .php-email-form button[type=submit] {
-  background: #2dc997;
+  background: #cd853f;
   border: 0;
   padding: 10px 24px;
   color: #fff;
