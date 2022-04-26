@@ -982,7 +982,7 @@ section {
   background: #343b40;
   padding: 30px 0;
   color: #fff;
-  font-size: 14px;
+  font-size: 11px;
 }
 
 #footer .kontaktanfrage {
@@ -997,6 +997,6 @@ section {
 #footer .credits {
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
+  font-size: 11px;
   color: #ccc;
 }
