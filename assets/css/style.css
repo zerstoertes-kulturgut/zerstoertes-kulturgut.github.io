@@ -984,6 +984,13 @@ section {
   color: #fff;
   font-size: 14px;
 }
+
+#footer .kontaktansprache {
+  text-align: center;
+  font-size: 16px;
+}
+
+
 #footer .copyright {
   text-align: center;
 }
