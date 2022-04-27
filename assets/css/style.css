@@ -291,7 +291,9 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #2dc997;
 }
-.navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
+.navbar-mobile .get
+
+ed, .navbar-mobile .getstarted:focus {
   margin: 15px;
 }
 .navbar-mobile .dropdown ul {
@@ -398,8 +400,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #cd853f;
+  border: 2px solid #cd853f;
 }
 
 /*--------------------------------------------------------------
@@ -602,13 +604,13 @@ section {
 }
 #services .box:hover .icon {
   background: #fff;
-  border: 2px solid #2dc997;
+  border: 2px solid #cd853f;
 }
 #services .box:hover .icon i {
-  color: #2dc997;
+  color: #cd853f;
 }
 #services .box:hover .icon a {
-  color: #2dc997;
+  color: #cd853f;
 }
 #services .title {
   font-weight: 700;
