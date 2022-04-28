@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 90px;
   transition: all 0.5s;
   z-index: 997;
-  background: rgba(52, 59, 64, 0.9);
+  background: rgba(17, 58, 110, 0.9);
 }
 #header #logo h1 {
   font-size: 32px;
