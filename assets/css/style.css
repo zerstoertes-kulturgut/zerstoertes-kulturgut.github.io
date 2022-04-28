@@ -420,8 +420,9 @@ section {
   text-align: center;
   font-weight: 700;
   margin-bottom: 5px;
-  padding-top: 40px;
+  padding-top: 80px;
 }
+
 .section-header .section-description {
   text-align: center;
   padding-bottom: 40px;
@@ -437,6 +438,14 @@ section {
   min-height: 40px;
   margin-top: 92px;
 }
+
+.breadcrumbs-small {
+  padding: 20px 0;
+  background-color: whitesmoke;
+  min-height: 40px;
+  margin-top: 60px;
+}
+
 .breadcrumbs h2 {
   font-size: 24px;
   font-weight: 300;
