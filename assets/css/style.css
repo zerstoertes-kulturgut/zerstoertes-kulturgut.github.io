@@ -364,7 +364,7 @@ ed, .navbar-mobile .getstarted:focus {
 #hero .hero-container .typewriter {
 
   overflow: hidden; /* Ensures the content is not revealed until the animation */
-  border-right: .15em solid #eec591; /* The typwriter cursor */
+  /*border-right: .15em solid #eec591; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
