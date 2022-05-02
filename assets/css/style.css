@@ -1032,6 +1032,7 @@ section {
 .downloadbutton:hover {
   background: #cd853f;
   border: 2px solid #cd853f;
+  color: #fff
 }
 
 /*--------------------------------------------------------------
