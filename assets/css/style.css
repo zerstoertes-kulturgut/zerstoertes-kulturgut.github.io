@@ -1036,7 +1036,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Speakers/Galerie Section
+# Galerie Section ---- muss noch korrekt benannt werden
 --------------------------------------------------------------*/
 #speakers {
   padding: 60px 0 30px 0;
@@ -1047,7 +1047,7 @@ section {
   margin-bottom: 30px;
 }
 #speakers .speaker .details {
-  background: rgba(6, 12, 34, 0.76);
+  background: #113a6e;;
   position: absolute;
   left: 0;
   bottom: -40px;
@@ -1079,7 +1079,7 @@ section {
   color: #fff;
 }
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #eec591;
 }
 #speakers .speaker:hover .details {
   bottom: 0;
@@ -1089,7 +1089,7 @@ section {
   padding: 60px 0;
 }
 #speakers-details .details h2 {
-  color: #112363;
+  color: #113a6e;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -1099,7 +1099,7 @@ section {
 }
 #speakers-details .details .social a {
   background: #e9edfb;
-  color: #112363;
+  color: #113a6e;
   line-height: 1;
   display: inline-block;
   text-align: center;
@@ -1111,7 +1111,7 @@ section {
   justify-content: center;
 }
 #speakers-details .details .social a:hover {
-  background: #f82249;
+  background: #eec591;
   color: #fff;
 }
 #speakers-details .details .social a i {
@@ -1119,7 +1119,7 @@ section {
   line-height: 0;
 }
 #speakers-details .details p {
-  color: #112363;
+  color: #113a6e;
   font-size: 15px;
   margin-bottom: 10px;
 }
