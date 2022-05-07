@@ -149,14 +149,14 @@
 
   /**
    * Scroll with ofset on page load with hash links in the url
-   */
+   */ 
   window.addEventListener('load', () => {
     if (window.location.hash) {
       if (select(window.location.hash)) {
         scrollto(window.location.hash)
       }
     }
-  });
+  }); 
 
   /**
    * Porfolio isotope and filter
@@ -168,7 +168,7 @@
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows'
       });
-
+      
       let portfolioFilters = select('#portfolio-flters li', true);
 
       on('click', '#portfolio-flters li', function(e) {
@@ -181,9 +181,10 @@
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')
         });
+
         portfolioIsotope.on('arrangeComplete', function() {
           AOS.refresh()
-        });
+
       }, true);
     }
 
