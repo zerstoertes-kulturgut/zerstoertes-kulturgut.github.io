@@ -3,5 +3,8 @@
   <metadata> <!-- Metadaten --> </metadata>
   <wpt desc="Palmyra" lat="34.56597553991679" lon="38.285293454524584"></wpt>
   <wpt desc="Hatra" lat="35.57780603477389" lon="42.73256775689608"></wpt>
-  <wpt desc="Umayyaden Moschee" lat="36.199296560720875" lon=" 37.15668078755107"></wpt>
+  <wpt desc="Umayyaden Moschee" lat="36.199296560720875" lon=" 37.15668078755107"></wpt>,
+  <wpt desc="Buddha-Statuen" lat="34.8322922503124" lon="67.82670455392648"></wpt>
+  <wpt desc="Zentralbibliothek Mossul" lat="36.37637882880515" lon="43.145709434974584"></wpt>
+  <wpt desc="Prophet Jona Moschee" lat="36.34862294063406" lon="43.15981008464435"></wpt>
 </gpx>
