@@ -1125,6 +1125,17 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Impressum
+--------------------------------------------------------------*/
+
+#impressum .impressum {
+  padding: 70px 70px 70px 70px;
+}
+
+
+
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
@@ -1140,12 +1151,19 @@ section {
   font-weight: bold;
 }
 
+#footer .impressum-referenz {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 #footer .copyright {
   text-align: center;
+  font-size: 9px;
 }
 #footer .credits {
   padding-top: 10px;
   text-align: center;
-  font-size: 13px;
+  font-size: 9px;
   color: #ccc;
 }
