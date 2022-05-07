@@ -149,14 +149,14 @@
 
   /**
    * Scroll with ofset on page load with hash links in the url
-   */ 
+   */
   window.addEventListener('load', () => {
     if (window.location.hash) {
       if (select(window.location.hash)) {
         scrollto(window.location.hash)
       }
     }
-  }); 
+  });
 
   /**
    * Porfolio isotope and filter
@@ -168,7 +168,7 @@
         itemSelector: '.portfolio-item',
         layoutMode: 'fitRows'
       });
-      
+
       let portfolioFilters = select('#portfolio-flters li', true);
 
       on('click', '#portfolio-flters li', function(e) {
@@ -181,10 +181,9 @@
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')
         });
-
         portfolioIsotope.on('arrangeComplete', function() {
           AOS.refresh()
-
+        });
       }, true);
     }
 
@@ -214,57 +213,56 @@
     }
   });
 
-  
-  /**
+    /**
    * Gallery Slider
    */
-   new Swiper('.gallery-slider', {
-    speed: 400,
-    loop: true,
-    centeredSlides: true,
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false
-    },
-    slidesPerView: 'auto',
-    pagination: {
-      el: '.swiper-pagination',
-      type: 'bullets',
-      clickable: true
-    },
-    breakpoints: {
-      320: {
-        slidesPerView: 1,
-        spaceBetween: 20
+     new Swiper('.gallery-slider', {
+      speed: 400,
+      loop: true,
+      centeredSlides: true,
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: false
       },
-      575: {
-        slidesPerView: 2,
-        spaceBetween: 20
+      slidesPerView: 'auto',
+      pagination: {
+        el: '.swiper-pagination',
+        type: 'bullets',
+        clickable: true
       },
-      768: {
-        slidesPerView: 3,
-        spaceBetween: 20
-      },
-      992: {
-        slidesPerView: 5,
-        spaceBetween: 20
+      breakpoints: {
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 20
+        },
+        575: {
+          slidesPerView: 2,
+          spaceBetween: 20
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 20
+        },
+        992: {
+          slidesPerView: 5,
+          spaceBetween: 20
+        }
       }
-    }
-  });
-
-  /**
-   * Initiate gallery lightbox 
-   */
-  const galleryLightbox = GLightbox({
-    selector: '.gallery-lightbox'
-  });
-
-  /**
-   * Buy tickets select the ticket type on click
-   */
-  on('show.bs.modal', '#buy-ticket-modal', function(event) {
-    select('#buy-ticket-modal #ticket-type').value = event.relatedTarget.getAttribute('data-ticket-type')
-  })
+    });
+  
+    /**
+     * Initiate gallery lightbox 
+     */
+    const galleryLightbox = GLightbox({
+      selector: '.gallery-lightbox'
+    });
+  
+    /**
+     * Buy tickets select the ticket type on click
+     */
+    on('show.bs.modal', '#buy-ticket-modal', function(event) {
+      select('#buy-ticket-modal #ticket-type').value = event.relatedTarget.getAttribute('data-ticket-type')
+    })
 
   /**
    * Animation on scroll
