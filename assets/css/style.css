@@ -1039,14 +1039,16 @@ section {
   padding: 10px 24px;
   border-radius: 50px;
   transition: 0.5s;
-  margin-left: 30px;
+  margin-left: 50px;
   margin-bottom: 20px;
+  margin-top: 30px;
   border: 2px #cd853f;
   transition: 0.4s;
 }
 .downloadbutton:hover {
   background:  #eec591;
 }
+
 
 /*--------------------------------------------------------------
 # Galerie Section ---- muss noch korrekt benannt werden
