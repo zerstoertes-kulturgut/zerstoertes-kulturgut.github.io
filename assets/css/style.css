@@ -851,6 +851,15 @@ section {
   padding: 0;
 }
 
+/* Search Engine Section
+--------------------------------*/
+
+#search-engine .container .searchengine {
+  border: 10px solid #cd853f;
+}
+
+
+
 /* Team Section
 --------------------------------*/
 #team {
