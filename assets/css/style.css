@@ -1010,6 +1010,7 @@ section {
   background: #cd853f;
   border: 2px #cd853f;
   padding: 10px 24px;
+  border-radius: 50px;
   color: #fff;
   transition: 0.4s;
 }
