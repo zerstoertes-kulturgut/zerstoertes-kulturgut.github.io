@@ -1032,25 +1032,21 @@ section {
 --------------------------------*/
 
 .downloadbutton {
-  font-family: "Poppins", sans-serif;
-  text-transform: uppercase;
-  font-weight: 500;
-  font-size: 16px;
+  background: #cd853f;
+  color: #fff;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 8px 28px;
+  padding: 10px 24px;
   border-radius: 50px;
   transition: 0.5s;
   margin-left: 30px;
   margin-bottom: 20px;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px #cd853f;
+  transition: 0.4s;
 
 }
 .downloadbutton:hover {
-  background: #fff;
-  border: 2px solid #cd853f;
-  color: #fff
+  background:  #eec591;
 }
 
 /*--------------------------------------------------------------
