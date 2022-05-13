@@ -1165,8 +1165,18 @@ section {
 /*--------------------------------------------------------------
 # Karte
 --------------------------------------------------------------*/
-#karte {
-  padding: 80px;
+@media (min-width: 769px){
+#karte .visualisierung-karte {
+  align-items: center;
+  padding: 20px 100px 20px 100px;
+}
+}
+
+@media (max-width: 768px){
+  #karte .visualisierung-karte {
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+  }
 }
 
 
