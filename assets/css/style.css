@@ -1241,8 +1241,11 @@ section {
 
 /* Download Button
 --------------------------------*/
+#download-container {
+  text-align: center;
+}
 
-.downloadbutton {
+#download-container .downloadbutton {
   background: #cd853f;
   color: #fff;
   letter-spacing: 1px;
@@ -1257,7 +1260,7 @@ section {
   transition: 0.4s;
 }
 
-.downloadbutton:hover {
+#download-container .downloadbutton:hover {
   background: #eec591;
 }
 
