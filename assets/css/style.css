@@ -1373,10 +1373,14 @@ section {
 /*--------------------------------------------------------------
 # Karte
 --------------------------------------------------------------*/
+#karte {
+  text-align: center;
+}
+
 @media (min-width: 769px) {
   #karte .visualisierung-karte {
     align-items: center;
-    padding: 0px 50px 20px 0px;
+    padding: 0px 0px 20px 0px;
   }
 }
 
