@@ -1002,6 +1002,10 @@ section {
   padding: 0;
 }
 
+.portfolio-details .textbereich {
+  padding-bottom: 30px;
+}
+
 /* Search Engine Section
 --------------------------------*/
 
@@ -1369,7 +1373,7 @@ section {
 @media (min-width: 769px) {
   #karte .visualisierung-karte {
     align-items: center;
-    padding: 20px 100px 20px 100px;
+    padding: 0px 50px 20px 0px;
   }
 }
 
@@ -1403,6 +1407,7 @@ section {
   border: 2px solid #cd853f;
   color: #fff
 }
+
 
 /*--------------------------------------------------------------
 # Impressum
