@@ -119,15 +119,20 @@
     this.classList.toggle('bi-x')
   })
 
-  /**
+  /*
    * Mobile nav dropdowns activate
+
+  Hier kann eingestellt werden, dass die Unterseiten erster Ebene auch klickbar sind -- aber stand jetzt sind dann die der zweiten Ebene nicht mehr erreichbar
+
    */
+  
   on('click', '.navbar .dropdown > a', function(e) {
     if (select('#navbar').classList.contains('navbar-mobile')) {
       e.preventDefault()
       this.nextElementSibling.classList.toggle('dropdown-active')
     }
   }, true)
+
 
   /**
    * Scrool with ofset on links with a class name .scrollto
