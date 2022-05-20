@@ -533,7 +533,7 @@ section {
 --------------------------------*/
 .section-header .section-title {
   font-size: 32px;
-  color: #111;
+  color: #113a6e;
   text-transform: uppercase;
   text-align: center;
   font-weight: 700;
@@ -544,7 +544,7 @@ section {
 .section-header .section-description {
   text-align: center;
   padding-bottom: 40px;
-  color: #999;
+  color: #113a6e;
 }
 
 /*--------------------------------------------------------------
@@ -697,6 +697,7 @@ section {
   padding: 80px 0 60px 0;
 }
 
+
 #facts .counters span {
   font-size: 48px;
   display: block;
@@ -707,8 +708,57 @@ section {
   padding: 0;
   margin: 0 0 20px 0;
   font-family: "Poppins", sans-serif;
-  font-size: 14px;
+  font-size: 17px;
 }
+
+
+
+#facts .counters .typewriter {
+
+  overflow: hidden;
+  /* Ensures the content is not revealed until the animation */
+  /*border-right: .15em solid #eec591; /* The typwriter cursor */
+  white-space: nowrap;
+  /* Keeps the content on a single line */
+  margin: 0 auto;
+  /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .05em;
+  /* Adjust as needed */
+  animation:
+    typing 10s steps(40, end);
+  color: #cd853f;
+
+}
+
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0
+  }
+
+  to {
+    width: 100%
+  }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+
+  from,
+  to {
+    border-color: transparent
+  }
+
+  50% {
+    border-color: transparent;
+  }
+}
+
+#facts .counters .typewriter h3{
+  font-size: 43px;
+}
+
 
 /* Services Section
 --------------------------------*/
