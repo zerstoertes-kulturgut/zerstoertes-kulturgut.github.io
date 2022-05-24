@@ -32,15 +32,29 @@ p {
   padding: 0;
   margin: 0 0 30px 0;
 }
-
-h1,
 h2,
 h3,
+h5 {
+  color: #cd853f;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+h1,
 h4,
-h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+h7 {
+  color: #cd853f;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
   margin: 0 0 20px 0;
   padding: 0;
 }
@@ -445,6 +459,7 @@ h6 {
   /* Adjust as needed */
   animation:
     typing 3.5s steps(40, end);
+    
 }
 
 /* The typing effect */
@@ -627,7 +642,7 @@ section {
 }
 
 #about .about-container .title {
-  color: #333;
+  color: #cd853f;
   font-weight: 700;
   font-size: 32px;
 }
@@ -681,7 +696,7 @@ section {
 }
 
 #about .about-container .icon-box .title a {
-  color: #111;
+  color: #cd853f;
 }
 
 #about .about-container .icon-box .description {
@@ -725,8 +740,7 @@ section {
   letter-spacing: .05em;
   /* Adjust as needed */
   animation:
-    typing 10s steps(40, end);
-  color: #cd853f;
+    typing 3s steps(40, end);
 
 }
 
@@ -1027,6 +1041,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
+  color: #113a6e;
 }
 
 .portfolio-details .portfolio-info ul {
