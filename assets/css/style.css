@@ -1156,6 +1156,26 @@ section {
 
 /* Contact Section
 --------------------------------*/
+#contact a:link {
+  background: #cd853f;
+  color: #fff;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 24px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+  border: 2px #cd853f;
+  transition: 0.4s;
+}
+
+
+#contact a:hover {
+  background: #eec591;
+}
+
 #contact {
   background: #f7f7f7;
   padding: 80px 0 40px 0;
