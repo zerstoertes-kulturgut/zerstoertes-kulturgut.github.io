@@ -1007,6 +1007,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  color: #113a6e;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -1014,8 +1015,9 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 10px;
   position: relative;
+  text-align: left;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
@@ -1024,10 +1026,13 @@ section {
   background-color: #fff;
   opacity: 1;
   border: 1px solid #cd853f;
+  text-align: center;
+
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #cd853f;
+  text-align: center;
 }
 
 .portfolio-details .portfolio-info {
