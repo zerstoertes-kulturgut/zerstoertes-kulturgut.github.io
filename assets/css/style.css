@@ -1206,9 +1206,7 @@ section {
   padding: 10px 24px;
   border-radius: 50px;
   transition: 0.5s;
-  margin-left: 50px;
-  margin-bottom: 20px;
-  margin-top: 30px;
+  margin-left: 30px;
   border: 2px #cd853f;
   transition: 0.4s;
 }
@@ -1230,6 +1228,7 @@ section {
 
 #contact .info {
   color: #333333;
+  margin-left: 28px;
 }
 
 #contact .info i {
