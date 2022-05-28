@@ -32,6 +32,7 @@ p {
   padding: 0;
   margin: 0 0 30px 0;
 }
+
 h2,
 h3,
 h5 {
@@ -50,6 +51,7 @@ h6 {
   margin: 0 0 20px 0;
   padding: 0;
 }
+
 h7 {
   color: #cd853f;
   font-size: 48px;
@@ -459,7 +461,7 @@ h7 {
   /* Adjust as needed */
   animation:
     typing 3.5s steps(40, end);
-    
+
 }
 
 /* The typing effect */
@@ -506,7 +508,7 @@ h7 {
 
 @media (max-width: 500px) {
   #hero h1 {
-    font-size: 15px;
+    font-size: 20px;
     line-height: 36px;
   }
 }
@@ -722,10 +724,20 @@ section {
 }
 
 
+@media (min-width: 501px){
 #facts .counters span {
   font-size: 48px;
   display: block;
   color: #cd853f;
+}
+}
+
+@media (max-width: 500px) {
+  #facts .counters span {
+    font-size: 20px;
+    display: block;
+    color:#cd853f;
+  }
 }
 
 #facts .counters p {
@@ -778,8 +790,16 @@ section {
   }
 }
 
-#facts .counters .typewriter h3{
-  font-size: 43px;
+@media (min-width: 501px) {
+  #facts .counters .typewriter h7 {
+    font-size: 48px;
+  }
+}
+
+@media (max-width: 500px) {
+  #facts .counters .typewriter h7 {
+    font-size: 20px;
+  }
 }
 
 
