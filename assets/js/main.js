@@ -4,7 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-(function() {
+(function () {
   "use strict";
 
   /**
@@ -113,7 +113,7 @@
   /**
    * Mobile nav toggle
    */
-  on('click', '.mobile-nav-toggle', function(e) {
+  on('click', '.mobile-nav-toggle', function (e) {
     select('#navbar').classList.toggle('navbar-mobile')
     this.classList.toggle('bi-list')
     this.classList.toggle('bi-x')
@@ -125,8 +125,8 @@
   Hier kann eingestellt werden, dass die Unterseiten erster Ebene auch klickbar sind -- aber stand jetzt sind dann die der zweiten Ebene nicht mehr erreichbar
 
    */
-  
-  on('click', '.navbar .dropdown > a', function(e) {
+
+  on('click', '.navbar .dropdown > a', function (e) {
     if (select('#navbar').classList.contains('navbar-mobile')) {
       e.preventDefault()
       this.nextElementSibling.classList.toggle('dropdown-active')
@@ -137,7 +137,7 @@
   /**
    * Scrool with ofset on links with a class name .scrollto
    */
-  on('click', '.scrollto', function(e) {
+  on('click', '.scrollto', function (e) {
     if (select(this.hash)) {
       e.preventDefault()
 
@@ -176,9 +176,9 @@
 
       let portfolioFilters = select('#portfolio-flters li', true);
 
-      on('click', '#portfolio-flters li', function(e) {
+      on('click', '#portfolio-flters li', function (e) {
         e.preventDefault();
-        portfolioFilters.forEach(function(el) {
+        portfolioFilters.forEach(function (el) {
           el.classList.remove('filter-active');
         });
         this.classList.add('filter-active');
@@ -186,7 +186,7 @@
         portfolioIsotope.arrange({
           filter: this.getAttribute('data-filter')
         });
-        portfolioIsotope.on('arrangeComplete', function() {
+        portfolioIsotope.on('arrangeComplete', function () {
           AOS.refresh()
         });
       }, true);
@@ -218,56 +218,56 @@
     }
   });
 
-    /**
-   * Gallery Slider
-   */
-     new Swiper('.gallery-slider', {
-      speed: 400,
-      loop: true,
-      centeredSlides: true,
-      autoplay: {
-        delay: 5000,
-        disableOnInteraction: false
+  /**
+ * Gallery Slider
+ */
+  new Swiper('.gallery-slider', {
+    speed: 400,
+    loop: true,
+    centeredSlides: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    slidesPerView: 'auto',
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    },
+    breakpoints: {
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 20
       },
-      slidesPerView: 'auto',
-      pagination: {
-        el: '.swiper-pagination',
-        type: 'bullets',
-        clickable: true
+      575: {
+        slidesPerView: 2,
+        spaceBetween: 20
       },
-      breakpoints: {
-        320: {
-          slidesPerView: 1,
-          spaceBetween: 20
-        },
-        575: {
-          slidesPerView: 2,
-          spaceBetween: 20
-        },
-        768: {
-          slidesPerView: 3,
-          spaceBetween: 20
-        },
-        992: {
-          slidesPerView: 5,
-          spaceBetween: 20
-        }
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 20
+      },
+      992: {
+        slidesPerView: 5,
+        spaceBetween: 20
       }
-    });
-  
-    /**
-     * Initiate gallery lightbox 
-     */
-    const galleryLightbox = GLightbox({
-      selector: '.gallery-lightbox'
-    });
-  
-    /**
-     * Buy tickets select the ticket type on click
-     */
-    on('show.bs.modal', '#buy-ticket-modal', function(event) {
-      select('#buy-ticket-modal #ticket-type').value = event.relatedTarget.getAttribute('data-ticket-type')
-    })
+    }
+  });
+
+  /**
+   * Initiate gallery lightbox 
+   */
+  const galleryLightbox = GLightbox({
+    selector: '.gallery-lightbox'
+  });
+
+  /**
+   * Buy tickets select the ticket type on click
+   */
+  on('show.bs.modal', '#buy-ticket-modal', function (event) {
+    select('#buy-ticket-modal #ticket-type').value = event.relatedTarget.getAttribute('data-ticket-type')
+  })
 
   /**
    * Animation on scroll
@@ -280,5 +280,28 @@
       mirror: false
     })
   });
+
+  /**
+   * Registerkarten
+   */
+
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function () {
+      /* Toggle between adding and removing the "active" class,
+      to highlight the button that controls the panel */
+      this.classList.toggle("active");
+
+      /* Toggle between hiding and showing the active panel */
+      var panel = this.nextElementSibling;
+      if (panel.style.display === "block") {
+        panel.style.display = "none";
+      } else {
+        panel.style.display = "block";
+      }
+    });
+  }
 
 })()
