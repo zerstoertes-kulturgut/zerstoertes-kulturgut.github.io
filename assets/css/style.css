@@ -724,14 +724,6 @@ section {
 }
 
 
-@media (min-width: 501px){
-#facts .counters span {
-  font-size: 48px;
-  display: block;
-  color: #cd853f;
-}
-}
-
 @media (max-width: 500px) {
   #facts .counters span {
     font-size: 20px;
@@ -761,7 +753,7 @@ section {
   letter-spacing: .05em;
   /* Adjust as needed */
   animation:
-    typing 3s steps(40, end);
+    typing 5s steps(40, end);
 
 }
 
@@ -1512,18 +1504,43 @@ section {
   }
 }
 
+@media (min-width: 769px) {
+  #karte::before {
+    content: "Klicken Sie auf die Marker, um mehr zu entdecken.";
+    color:#cd853f;
+    padding: 10px;
+  }
+}
+
 
 @media (max-width: 768px) {
   #karte .visualisierung-karte {
     align-items: center;
-    padding: 50px 50px 50px 50px;
+    padding: 10px;
   }
 }
+
+@media (max-width: 769px) {
+  #karte::before {
+    content: "Sehen Sie sich die Marker genauer an.";
+    color:#cd853f;
+    padding: 10px;
+  }
+}
+
 
 @media (max-width: 480px) {
   #karte .visualisierung-karte {
     align-items: center;
-    padding: 50px 50px 50px 50px;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  #karte::before {
+    content: "Wischen Sie über die Karte, um mehr zu entdecken.";
+    color:#cd853f;
+    padding: 10px;
   }
 }
 
