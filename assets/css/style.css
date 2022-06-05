@@ -643,7 +643,7 @@ section {
 }
 
 #about .about-container .background {
-  background: url(../img/pexels-dirk-bijstra.jpg) center top no-repeat;
+  background: url("/assets/img/BilderKulturstätten/Hatra_1_Unesco_CC-SA.jpg") center top no-repeat;
   margin-bottom: 10px;
 }
 
@@ -715,6 +715,18 @@ section {
   font-size: 14px;
 }
 
+@media (max-width: 500px) {
+  #about .ÜberBild {
+    display: block;
+  }
+}
+
+#about .ÜberBild {
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 /* Facts Section
 --------------------------------*/
 #facts {
@@ -735,6 +747,14 @@ section {
     font-size: 20px;
     display: block;
     color: #cd853f;
+  }
+}
+
+@media (max-width: 500px) {
+  #facts .counters .col-lg-3 {
+    font-size: 20px;
+    display: block;
+    padding-top: 40px;
   }
 }
 
