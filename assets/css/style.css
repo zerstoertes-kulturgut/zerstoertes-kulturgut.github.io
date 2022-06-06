@@ -710,7 +710,7 @@ section {
   font-size: 14px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   #about .ÜberBild {
     display: none;
   }
