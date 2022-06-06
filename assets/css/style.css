@@ -715,7 +715,7 @@ section {
   font-size: 14px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 768px) {
   #about .ÜberBild {
     display: block;
   }
@@ -1067,13 +1067,7 @@ section {
   text-align: center;
 }
 
-@media (max-width: 768px) {
-  .portfolio-details .portfolio-details-slider .swiper-pagination {
-    margin-top: 10px;
-    text-align: left;
-    padding-left: 30px;
-  }
-}
+
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
