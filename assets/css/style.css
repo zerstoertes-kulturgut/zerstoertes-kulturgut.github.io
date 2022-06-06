@@ -642,11 +642,6 @@ section {
   padding: 80px 0;
 }
 
-#about .about-container .background {
-  background: url("/assets/img/BilderKulturstätten/Hatra_1_Unesco_CC-SA.jpg") center top no-repeat;
-  margin-bottom: 10px;
-}
-
 #about .about-container .content {
   background: #fff;
 }
