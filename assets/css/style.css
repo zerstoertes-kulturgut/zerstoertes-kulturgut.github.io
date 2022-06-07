@@ -1051,20 +1051,9 @@ section {
   padding-top: 40px;
   color: #113a6e;
 }
-.portfolio-details .col-lg-7{
-  color: #113a6e;
-  width: 600px;
-  margin-right: 30px;
-}
 
-.portfolio-details .portfolio-details-slider {
-  width: 600px;
-  position: relative;
-  text-align: center;
-}
-
-.portfolio-details .portfolio-details-slider .ProjektBild img{
-  width: 600px;
+.portfolio-details .portfolio-details-slider img {
+  width: 100%;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
@@ -1073,19 +1062,7 @@ section {
   text-align: center;
 }
 
-@media (max-width: 900px) {
-  .portfolio-details .portfolio-details-slider .ProjektBild img {
-    position: center;
-    max-width: 100%;
-    margin-right: 30px;
-  }
-}
-@media (max-width: 900px) {
-  .portfolio-details .portfolio-details-slider {
-    position: center;
-    max-width: 100%
-  }
-}
+
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
