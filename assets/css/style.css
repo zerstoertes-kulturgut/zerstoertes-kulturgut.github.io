@@ -1118,7 +1118,11 @@ section {
 }
 
 .portfolio-details .textbereich {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
+}
+
+.portfolio-details .Album {
+  padding-top: 10px;
 }
 
 .portfolio-details .Album img{
@@ -1616,9 +1620,6 @@ section {
 /*--------------------------------------------------------------
 # Akkordeon
 --------------------------------------------------------------*/
-#Akkordeon {
-  padding: 10px;
-}
 
 /* Style the buttons that are used to open and close the accordion panel */
 #Akkordeon .accordion {
