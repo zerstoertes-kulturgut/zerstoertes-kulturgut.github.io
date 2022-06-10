@@ -1414,6 +1414,36 @@ section {
   background: #eec591;
 }
 
+#button-container{
+  text-align: center;
+}
+
+#button-container .button {
+  background: #cd853f;
+  color: #fff;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 24px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  border: 2px #cd853f;
+  transition: 0.4s;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+#button-container .button a {
+  color: #fff;
+}
+
+#button-container .button:hover {
+  background: #eec591;
+}
+
 
 /*--------------------------------------------------------------
 # Galerie Section ---- muss noch korrekt benannt werden
