@@ -1,0 +1,192 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Hier eine lokale ID eintragen</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="Quelle des Persistent Identifier (wikidata oder GND)" lido:type="http://terminology.lido-schema.org/identifier_type/uri">Ein Persistent Identifier (zB wikidata oder GND)</lido:conceptID>
+            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">deutsche Bezeichnung</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">englische Bezeichnung</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="Sprachenkürzel einfügen">Bezeichnung der ausgewählten Sprache</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>Längen- und Breitengrad</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Textbeschreibung des Objekts</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:term>Art des Events (Krieg oder Terrorismus)</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Name des Krieges/Anschlags</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>zerstörende Partei</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Art des Events (zB Bürgerkrieg)</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>erstes Datum des Events</lido:earliestDate>
+                <lido:latestDate>letztes Datum des Events</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Bezeichnung des Ortes des Events</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>Längen- und Breitengrad</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Bezeichnung des Events</lido:displayEvent>
+                <lido:event>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023">Persistend Identifier</lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Bezeichnung des Events</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Akteur im Event</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Rolle des/der Akteure</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Art des Events (zB Bürgerkrieg)</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>erstes Datum des Events</lido:earliestDate>
+		      <lido:latestDate>letztes Datum des Events</lido:latestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Name des Ortes des Events</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Name des Ortes des Events</lido:appellationValue>
+                        <lido:sourceAppellation>Quelle</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Beschreibung des Events</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Hier eine lokale ID eintragen</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Legale Entität</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">lokale ID für Bild</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>Quelle zur Ressource (Link)</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Art der Ressource (Bild)</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate>Datum der Erstellung der Ressource (zB wann Bild fotografiert wurde)</lido:earliestDate>
+                </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="owner oder creator">
+              <lido:legalBodyName>
+                <lido:appellationValue>Ersteller der Ressource (zB Fotograf)</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+                <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+				<lido:term>CC BY 4.0</lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>
