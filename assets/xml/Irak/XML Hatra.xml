@@ -1,0 +1,196 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+	<lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Hatra</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+        <lido:objectClassificationWrap>
+          <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Hatra</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Hatra</lido:term>
+          </lido:objectWorkType>
+          </lido:objectWorkTypeWrap>
+          <lido:classificationWrap>
+            <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="http://d-nb.info/" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/4023627-4</lido:conceptID>
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q466614</lido:conceptID>
+		    		<lido:term xml:lang="de">Hatra</lido:term>
+			</lido:classification>
+          </lido:classificationWrap>
+        </lido:objectClassificationWrap>
+        <lido:objectIdentificationWrap>
+          <lido:titleWrap>
+            <lido:titleSet>
+              <lido:appellationValue lido:pref="preferred" xml:lang="de">Hatra</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="en">Hatra</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="ar">الحضر</lido:appellationValue>
+            </lido:titleSet>
+          </lido:titleWrap>
+          <lido:repositoryWrap>
+            <lido:repositorySet>
+              <lido:repositoryLocation>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>35.57780603477389 42.73256775689608</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:repositoryLocation>
+            </lido:repositorySet>
+          </lido:repositoryWrap>
+          <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+              <lido:descriptiveNoteValue>Die Stadt Hatra wurde vermutlich im 3. oder 2. Jahrhundert vor Christus gegründet (4). Sie diente als Hauptstadt des ersten Arabischen Königreiches (1) und war ein religiöses sowie kulturelles Zentrum des Partherreiches (2). Die Stadt wurde häufiger umkämpft, unter anderem von den Römern (1), und wurde von den Persern 240 nach Christus zum ersten Mal zerstört (3). Ein Erkennungsmerkmal der Stadt war ihre gut erhaltene Außenmauer, die mehr als 6 km lang und mit bis zu 160 Türmen gesäumt war (4). Von außerordentlicher Besonderheit aber war die Mischung aus hellenistischer, römischer und fernöstlicher Architektur, die Hatra ausmachte. Sie galt als eine der am besten erhaltenen archäologischen Stätten im Irak (1).Die antike Stadt wurde 1985 von der UNESCO zum Weltkulturerbe erklärt (3).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Unesco (k.D.) Hatra.  https://whc.unesco.org/en/list/277/ </lido:label>
+                  <lido:label number="2">BBC (2017). Hatra: IS damage to ancient Iraqi city less than feared. https://www.bbc.com/news/world-middle-east-39770395 </lido:label>
+                  <lido:label number="3">Encyclopaedia Britannica (2022). Hatra. https://www.britannica.com/place/Hatra </lido:label>
+                </lido:textComplexType> 
+              </lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+          </lido:objectDescriptionWrap>
+        </lido:objectIdentificationWrap>
+        <lido:eventWrap>
+          <lido:eventSet>
+            <lido:event>
+              <lido:eventType>
+                <lido:term>Terrorismus</lido:term>
+              </lido:eventType>
+              <lido:eventName>
+                <lido:appellationValue>Auslöschung von Kultur</lido:appellationValue>
+              </lido:eventName>
+              <lido:eventActor>
+                <lido:actorInRole>
+                  <lido:actor>
+                    <lido:nameActorSet>
+                      <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                    </lido:nameActorSet>
+                  </lido:actor>
+                  <lido:roleActor>
+                    <lido:term>Zerstörer</lido:term>
+                  </lido:roleActor>
+                  <lido:sourceActorInRole>
+                    <lido:textComplexType>
+                      <lido:label number="2">https://www.bbc.com/news/world-middle-east-39770395</lido:label>
+                    </lido:textComplexType> 
+                  </lido:sourceActorInRole>
+                </lido:actorInRole>
+              </lido:eventActor>
+              <lido:culture>
+                <lido:term>Auslöschung von Kultur</lido:term>
+              </lido:culture>
+              <lido:eventDate>
+                <lido:date>
+                  <lido:earliestDate>2015-02</lido:earliestDate>
+                  <lido:latestDate>2017-04</lido:latestDate>
+                </lido:date>
+              </lido:eventDate>
+              <lido:eventPlace>
+                <lido:place>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Hatra, Irak</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point>
+                      <gml:pos>35.57780603477389 42.73256775689608</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:eventPlace>
+              <lido:relatedEventSet>
+                <lido:relatedEvent>
+                <lido:displayEvent>Irakkrise 2014</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q17144192</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Irakkrise 2014</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                          <lido:appellationValue>Irak</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Krieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-12-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Irak</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Irak</lido:appellationValue>
+                        <lido:sourceAppellation>BBC (15.12.2011). US flag ceremony marks formal end of Iraq war role. https://www.bbc.com/news/world-us-canada-16192105</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+              </lido:relatedEventSet>
+              <lido:eventDescriptionSet>
+                <lido:descriptiveNoteValue>Der Islamische Staat (IS) eroberte das Gelände um Hatra im Jahr 2014 (2). Kurz danach veröffentlichten Kämpfer der terroristischen Organisation Aufnahmen, wie sie Statuen und andere Objekte innerhalb der Stadt zerstörten (2). Nach diesen Aufnahmen wurde Hatra 2015 auf die Rote Liste des Gefährdeten Welterbes aufgenommen.2017 wurde der IS aus der Region vertrieben (2). Als Glück im Unglück stellte sich dann heraus, dass man die Zerstörung als größer angenommen hatte, als sie eigentlich war: Die meisten Gebäude innerhalb der Stadt blieben intakt (2).</lido:descriptiveNoteValue>
+                <lido:sourceDescriptiveNote>
+                  <lido:textComplexType>
+                    <lido:label number="2">BBC (2017). Hatra: IS damage to ancient Iraqi city less than feared. https://www.bbc.com/news/world-middle-east-39770395 </lido:label>
+                  </lido:textComplexType>
+                </lido:sourceDescriptiveNote>
+              </lido:eventDescriptionSet>
+            </lido:event>
+          </lido:eventSet>
+        </lido:eventWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+        <lido:recordWrap>
+          <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Hatra</lido:recordID>
+          <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+          </lido:recordType>
+          <lido:recordSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Universität Trier</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:recordSource>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+          <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Hatra/Bild1</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>https://whc.unesco.org/en/documents/109728</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2002-01-01</lido:earliestDate>
+            </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Véronique Dauge</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en</lido:conceptID>
+              <lido:term>CC BY-SA 3.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        </lido:resourceWrap>
+      </lido:administrativeMetadata>
+  	</lido:lido>
+</lido:lidoWrap>

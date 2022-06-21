@@ -1,0 +1,204 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoschee</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Hadum Moschee</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Hadum Moschee</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q3324861</lido:conceptID>
+            <lido:term xml:lang="de">Hadum-Moschee</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Hadum-Moschee</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Hadum mosque</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="sq">Xhamia e Hadumit</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="sr">Хадум џамија</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>42.37936731536464 20.42738739907845</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido01110"></lido:descriptiveNoteID>
+            <lido:descriptiveNoteValue>Die Hadum-Moschee wurde 1594 in Gjakova erbaut und gilt als ein klassisches Exemplar islamischer Architektur im Balkan (4). Sie ist auch Gjakovas bedeutendste Sehenswürdigkeit (3). Im Jahr 1733 wurde in der Nähe der Moschee eine Bibliothek gebaut, die antike Manuskripte enthielt (3).</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Cultural Heritage Without Borders (2009). Conservation and restoration of wall paintings and wooden decoration in Hadum Mosque, Gjakova.  http://chwb.org/kosovo/projects/conservation-and-restoration-of-wall-paintings-and-wooden-decoration-in-hadum-mosque-gjakova/</lido:label>
+                <lido:label number="2">Knowledgr (k.D.). Hadum Moschee. https://de.knowledgr.com/19474562/HadumMoschee</lido:label>
+                <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
+                <lido:label number="4">Lonely Planet (k.D.). Hadum Mosque. https://www.lonelyplanet.com/kosovo/gjakova/attractions/hadum-mosque/a/poi-sig/1545886/1341402</lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
+              <lido:term>Terrorismus</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Zerstörung der Moschee</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>serbische Armee</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>nationalistisch</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>1999</lido:earliestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                    <lido:appellationValue>Đakovica (Gjakova), Kosovo</lido:appellationValue>
+                  </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>42.37936731536464 20.42738739907845</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Jugoslavienkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q242352</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType>
+                  <lido:eventName>
+                    <lido:appellationValue>Jugoslawienkriege</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Slowenien</lido:appellationValue>
+                          <lido:appellationValue>Kroatien</lido:appellationValue>
+                          <lido:appellationValue>Bosnien und Herzegowina</lido:appellationValue>
+                          <lido:appellationValue>Kosovo</lido:appellationValue>
+                          <lido:appellationValue>Nordmazedonien</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Unabhängigkeitsbewergungen</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>1991-03-31</lido:earliestDate>
+                      <lido:latestDate>2001-11-12</lido:latestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Jugoslawien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Jugoslawien</lido:appellationValue>
+                        <lido:sourceAppellation>Sarovic, A. (2016). Jugoslawienkrieg - Antworten auf die zehn wichtigsten Fragen. Spiegel. https://www.spiegel.de/geschichte/jugoslawien-krieg-antworten-auf-die-wichtigsten-fragen-a-1099538.html </lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Im Jahr 1999 zündeten Soldaten der serbischen Armee vorsätzlich die alte Moschee an. Es wird vermutet, dass man damit die Region von nicht-serbischen kulturellen Einflüssen bereinigen wollte. Obwohl viel dem Feuer anheim fiel, blieb einiges von der Moschee noch stehen. Jedoch erhielt 2000 das saudische Joint Relief Commitee die Erlaubnis, den Komplex wiederherzustellen. Anstatt zu restaurieren, rissen sie die beschädigte Bibliothek nieder und walzten den anliegenden Friedhof, der bei vorherigen Angriffen beschädigt wurde, einfach nieder.</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="2">Knowledgr (k.D.). Hadum Moschee. https://de.knowledgr.com/19474562/HadumMoschee</lido:label>
+                  <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
+                </lido:textComplexType>
+                </lido:sourceDescriptiveNote>
+              <lido:sourceDescriptiveNote>Zulficar, Saïd. 2001. "Mosques in the Balkans". Cairo Times</lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoschee</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+      <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoSchee/Bild1</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>https://www.wikidata.org/wiki/Q3324861#/media/File:Kompleksi_Xhamija_e_Hadumit_03.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2013-10-15</lido:earliestDate>
+              </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>ShkelzenRexha</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://commons.wikimedia.org/wiki/User:ShkelzenRexha</lido:legalBodyWeblink>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-SA 4.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

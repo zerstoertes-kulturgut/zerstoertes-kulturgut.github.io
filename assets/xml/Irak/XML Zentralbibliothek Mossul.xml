@@ -1,0 +1,199 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+	<lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/ZentralbibliothekMossul</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+        <lido:objectClassificationWrap>
+          <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+              <lido:term xml:lang="de">Zentralbibliothek von Mossul</lido:term>
+			</lido:objectWorkType>
+          </lido:objectWorkTypeWrap>
+          <lido:classificationWrap>
+            <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+				<lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">Universität:https://www.wikidata.org/wiki/Q2743336</lido:conceptID>
+				<lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">Bibliothek:https://www.wikidata.org/wiki/Q12193674</lido:conceptID>
+        <lido:term xml:lang="de">Irakkrise 2014</lido:term>
+			</lido:classification>
+          </lido:classificationWrap>
+        </lido:objectClassificationWrap>
+        <lido:objectIdentificationWrap>
+          <lido:titleWrap>
+            <lido:titleSet>
+              <lido:appellationValue lido:pref="preferred" xml:lang="de">Bibliothek der Universität Mossul</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="en">Mosul central library</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="ar">المكتبة المركزية العامة</lido:appellationValue>
+            </lido:titleSet>
+          </lido:titleWrap>
+          <lido:repositoryWrap>
+            <lido:repositorySet>
+              <lido:repositoryLocation>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>36.37637882880515 43.145709434974584</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:repositoryLocation>
+            </lido:repositorySet>
+          </lido:repositoryWrap>
+          <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+              <lido:descriptiveNoteValue>2014 eroberte der IS die Stadt Mossul und machte sich sogleich an die Zerstörung der Zentralbibliothek , indem er sie in Flammen setzte (6). Der IS richtete sein Hauptquartier auf dem Campus ein. Beim Rückzug hinterlassen sie massenweise Sprengfallen (7). "IS-Kämpfer sollen ihre Tat damit erklärt haben, dass einige philosophische Bücher "zur Abkehr vom Glauben" aufrufen würden." (6).Von den rund einer Millionen Büchern (3), konnten nur 30.000 gerettet werden (2, 4). Der Rest wurde verbrannt, darunter seltene Einzelausgaben (3).Die UNESCO nannte es „einen der verheerendsten Akte der Zerstörung von Bibliotheksbeständen in der Geschichte der Menschheit" (8). 2017 wurde die Stadt von den Koalitionsstreitkräften zurückerobert (7) und es gründete sich die Kampagne "Mossuls Auge" zur Rettung der Bücher (2,5).Seitdem befindet sich die Bibliothek im Wiederaufbau mit 5.1 Millionen Euro (1, 8).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">KfW Entwicklungsbank (2019). Projektinformation Stabilisierung, Wiederaufbau und Beschäftigung Irak. https://www.kfw-entwicklungsbank.de/PDF/Entwicklungsfinanzierung/Projektinformationen/Nordafrika-Nahost/2020_Projektinformation_Irak_Besch%C3%A4ftigung_DE.pdf</lido:label>
+                  <lido:label number="2">Deutsche Welle (2018). Freiwillige retten Bücher aus Mossuls Zentralbibliothek. https://p.dw.com/p/30zOE</lido:label>
+                  <lido:label number="3"> Michel, M. (2018). Mossul: "Wir fangen wieder bei null an". torial. https://www.torial.com/meret.michel/portfolio/380862</lido:label>
+                  <lido:label number="4">Technische Universität Dortmund (k.D.). BrandMal: Ein Dokument aus Mossul spricht Geschichte. https://www.tu-dortmund.de/veranstaltungsdetail/detail/brandmal-ein-dokument-aus-mossul-spricht-geschichte-13663/</lido:label>
+                  <lido:label number="5">Allinfo (2018). Mossul feiert ein kulturelles Comeback. https://allinfo.space/2018/09/09/mossul-feiert-ein-kulturelles-comeback/</lido:label>
+                  <lido:label number="6">Mohamed, A. (2015). _IS verbrennt Bücher und zerstört Kulturgüter im Irak. _Der Tagesspiegel. https://www.tagesspiegel.de/politik/terror-is-verbrennt-buecher-und-zerstoert-kulturgueter-im-irak/11410146.html</lido:label>
+                  <lido:label number="7">Burchard, A. (2017). Der schwierige Wiederaufbau der Uni Mossul. Der Tagesspiegel. https://www.tagesspiegel.de/wissen/nach-dem-is-der-schwierige-wiederaufbau-der-uni-mossul/20528418.html</lido:label>
+                  <lido:label number="8">Arend, I. (2021). Edmund de Waal gibt seine „Library of Exile“ nach Mossul. Das Ingo Arend Blog. http://www.ingo-arend.de/edmund-de-waal-gibt-seine-library-of-exile-nach-mossul/</lido:label>
+                </lido:textComplexType> 
+              </lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+          </lido:objectDescriptionWrap>
+        </lido:objectIdentificationWrap>
+        <lido:eventWrap>
+          <lido:eventSet>
+            <lido:event>
+              <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
+                <lido:term>Terrorismus</lido:term>
+              </lido:eventType>
+              <lido:eventName>
+                <lido:appellationValue>Verbrennung der Bibliothek durch den IS</lido:appellationValue>
+              </lido:eventName>
+              <lido:eventActor>
+                <lido:actorInRole>
+                  <lido:actor>
+                    <lido:nameActorSet>
+                      <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                    </lido:nameActorSet>
+                  </lido:actor>
+                  <lido:roleActor>
+                    <lido:term>Zerstörer</lido:term>
+                  </lido:roleActor>
+                  <lido:sourceActorInRole>
+                    <lido:textComplexType>
+                      <lido:label number="6">Mohamed, A. (2015). _IS verbrennt Bücher und zerstört Kulturgüter im Irak. _Der Tagesspiegel. https://www.tagesspiegel.de/politik/terror-is-verbrennt-buecher-und-zerstoert-kulturgueter-im-irak/11410146.html</lido:label>
+                    </lido:textComplexType> https://www.tagesspiegel.de/politik/terror-is-verbrennt-buecher-und-zerstoert-kulturgueter-im-irak/11410146.html</lido:sourceActorInRole>
+                </lido:actorInRole>
+              </lido:eventActor>
+              <lido:culture>
+                <lido:term>Auslöschung von Kultur</lido:term>
+              </lido:culture>
+              <lido:eventDate>
+                <lido:date>
+                  <lido:earliestDate>2014-07-06</lido:earliestDate>
+                </lido:date>
+              </lido:eventDate>
+              <lido:eventPlace>
+                <lido:place>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Mossul, Irak</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point>
+                      <gml:pos>36.37637882880515 43.145709434974584</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:eventPlace>
+              <lido:relatedEventSet>
+                <lido:relatedEvent>
+                <lido:displayEvent>Irakkrise 2014</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q17144192</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Irakkrise 2014</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                          <lido:appellationValue>Irak</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Krieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-12-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Irak</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Irak</lido:appellationValue>
+                        <lido:sourceAppellation>BBC (15.12.2011). US flag ceremony marks formal end of Iraq war role. https://www.bbc.com/news/world-us-canada-16192105</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+              </lido:relatedEventSet>
+              <lido:eventDescriptionSet>
+                <lido:descriptiveNoteValue>2014 eroberte der IS die Stadt Mossul und machte sich sogleich an die Zerstörung der Zentralbibliothek , indem er sie in Flammen setzte. Der IS richtete sein Hauptquartier auf dem Campus ein. Beim Rückzug hinterlassen sie massenweise Sprengfallen. IS-Kämpfer sollen ihre Tat damit erklärt haben, dass einige philosophische Bücher "zur Abkehr vom Glauben" aufrufen würden. Von den rund einer Millionen Büchern, konnten nur 30.000 gerettet werden. Der Rest wurde verbrannt, darunter seltene Einzelausgaben. Die UNESCO nannte es „einen der verheerendsten Akte der Zerstörung von Bibliotheksbeständen in der Geschichte der Menschheit". 2017 wurde die Stadt von den Koalitionsstreitkräften zurückerobert und es gründete sich die Kampagne "Mossuls Auge" zur Rettung der Bücher.</lido:descriptiveNoteValue>
+                <lido:sourceDescriptiveNote>
+                  <lido:textComplexType>
+                    <lido:label number="2">Deutsche Welle (2018). Freiwillige retten Bücher aus Mossuls Zentralbibliothek. https://p.dw.com/p/30zOE</lido:label>
+                    <lido:label number="3">Michel, M. (2018). Mossul: "Wir fangen wieder bei null an". torial. https://www.torial.com/meret.michel/portfolio/380862</lido:label>
+                  </lido:textComplexType> 
+                </lido:sourceDescriptiveNote>
+              </lido:eventDescriptionSet>
+            </lido:event>
+          </lido:eventSet>
+        </lido:eventWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+        <lido:recordWrap>
+          <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Zentralbibliothek-Mossul</lido:recordID>
+          <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+          </lido:recordType>
+          <lido:recordSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Universität Trier</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:recordSource>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+          <!--<lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Zentralbibliothek-Mossul</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>Link zum Bild (Beispiel)</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Bild</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate>x</lido:earliestDate>
+                  <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource>
+              <lido:legalBodyName>
+                <lido:appellationValue>Name des Eigentümers/Quelle</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+                <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">bsp.:https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+				<lido:term> bsp.: CC BY-SA 4.0</lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+          das "resourceSet" für jedes einzelne Bild dann zu wiederholen.-->
+        </lido:resourceWrap>
+      </lido:administrativeMetadata>
+  	</lido:lido>
+</lido:lidoWrap>
