@@ -1,0 +1,204 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukraine/Babyn-Yar</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Babyn Yar</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Babyn Yar</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q48766</lido:conceptID>
+            <lido:term xml:lang="de">Babyn Yar</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Babyn Jar</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Babi Yar</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="uk">Бабин Яр</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>50.4723584767821 30.449634683337234</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido01110"></lido:descriptiveNoteID>
+            <lido:descriptiveNoteValue>Babyn Jar ist das größte Massengrab für Opfer des Holocausts. Bis zu schätzungsweise 100.000 jüdische Menschen wurden von den Nazis am 29.-30.09.1941 aus der Stadt Kiyv geführt und in der Schlucht Babyn Jar erschossen (1). In den darauffolgenden zwei Jahren deutscher Besatzung wurden noch zahlreiche weitere Menschen in dieser Schlucht getötet, sowohl weitere jüdische Opfer als auch politisch Verfolgte und Widerstandskämpfer (2).  Um diese schrecklichen Verbrechen zu vertuschen, begannen die Nazis ab 1942 die "Sonderaktion 1005", in der sie Häftlinge eines eigens dafür errichteten Konzentrationslagers dazu zwangen, die Leichen aus Babyn Jar zu holen und zu verbrennen (2).Am 29.09.1976 wurde ein Mahnmal für die Opfer am 35. Jahrestag der Morde errichtet. Die Schlucht selbst wurde 1962 bereits von den Sowjetbehörden eingeebnet.</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Cassady, D. (2022). Russian missile strike hits Holocaust memorial site in Kyiv. The Art Newspaper. https://www.theartnewspaper.com/2022/03/02/russian-missile-strike-babyn-yar-holocaust-memorial-centre-kyiv </lido:label>
+                <lido:label number="2">Bundeszentrale für politische Bildung (2021). Vor 80 Jahren: Massaker von Babyn Jar. https://www.bpb.de/kurz-knapp/hintergrund-aktuell/340854/vor-80-jahren-massaker-von-babyn-jar/ </lido:label>
+                <lido:label number="3">Gross, J. A. (2022). _Russia strikes Kyiv TV tower, killing 5 and damaging Babyn Yar Holocaust site. _The Times of Israel. https://www.timesofisrael.com/russia-strikes-tv-tower-in-heart-of-kyiv-damaging-babi-yar-holocaust-memorial/ </lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026"></lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Zerstörung des jüdischen Friedhofs</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>russische Armee</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="1">Cassady, D. (2022). Russian missile strike hits Holocaust memorial site in Kyiv. The Art Newspaper. https://www.theartnewspaper.com/2022/03/02/russian-missile-strike-babyn-yar-holocaust-memorial-centre-kyiv </lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Kollateralschaden</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>2022-03-01</lido:earliestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Kyiv, Ukraine</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>50.4723584767821 30.449634683337234</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Russisch-Ukrainischer Krieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q15860072</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Russisch-Ukrainischer Krieg</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Russland</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Angreifer</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Ukraine</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Geschädigte</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                      <lido:term>russische Militärintervention</lido:term>
+                    </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2014-02-24</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Krim, Ukraine</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Krim, Ukraine</lido:appellationValue>
+                        <lido:sourceAppellation>Balmforth, R.; Popeski, R. (12.05.2014) Crimea Vote Doesn't Offer 'No' Option For Joining Russia. HuffPost. https://www.huffpost.com/entry/crimea-vote-join-russia-ballot-no-option_n_4947557
+                          </lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Bei einem russischen Angriff auf einen Fernsehturm wurde das in der Nähe liegende Massengrab selbst getroffen. Das Mahnmal blieb unbeschädigt (1).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Cassady, D. (2022). Russian missile strike hits Holocaust memorial site in Kyiv. The Art Newspaper. https://www.theartnewspaper.com/2022/03/02/russian-missile-strike-babyn-yar-holocaust-memorial-centre-kyiv </lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukrainekrieg/Babyn-Yar</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukrainekrieg/Babyn-Yar/Bild1</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%22%D0%9C%D0%B5%D0%BD%D0%BE%D1%80%D0%B0%22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Bild</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate></lido:earliestDate>
+                  <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="owner oder creator">
+              <lido:legalBodyName>
+                <lido:appellationValue>Alex long</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+                <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+				<lido:term>bsp.: CC BY-SA 4.0 </lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>
