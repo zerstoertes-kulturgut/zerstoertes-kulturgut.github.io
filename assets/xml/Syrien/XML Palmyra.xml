@@ -1,0 +1,201 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Palmyra</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Palmyra</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Palmyra</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="http://d-nb.info/" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/4044429-6</lido:conceptID>
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q5747</lido:conceptID>
+            <lido:conceptID lido:source="http://www.geonames.org/" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.geonames.org/163809/palmyra.html</lido:conceptID>
+            <lido:term xml:lang="de">Palmyra</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Palmyra</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Palmyra</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="ar">تدمر</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>34.56597553991679 38.285293454524584</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Palmyra war eine der wichtigsten Städte der antiken Welt (2). Wann sie gegründet wurde, ist unbekannt: Ersterwähnungen finden sich im 2. Jahrhundert vor Christus (2). Ab Mitte des 1. Jahrhunderts nach Christus befand sich Palmyra unter römischer Verwaltung und während dieser Zeit florierte sie zu einer reichen Stadt dank ihrer nahen Lage an wichtigen Handelsrouten zwischen Persien, Indien, China und dem römischen Reich (2).Innerhalb von Palmyra befinden sich mehrere kulturell wertvolle Bauten, wie zum Beispiel der Baal-Tempel, ein römisches Theater und die Agora (3). Sie wurde 1980 von UNESCO zum Weltkulturerbe erklärt (4).</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Welt (2016). Fotos zeigen Ausmaß der Zerstörung in Palmyra. https://www.welt.de/politik/article153948917/Fotos-zeigen-Ausmass-der-Zerstoerungen-in-Palmyra.html</lido:label>
+                <lido:label number="2">UNESCO (k.D.). Site of Palmyra. https://whc.unesco.org/en/list/23</lido:label>
+                <lido:label number="3">Wikipedia (2022). Palmyra. https://de.wikipedia.org/wiki/Palmyra</lido:label>
+                <lido:label number="4">Encyclopedia Britannica. Palmyra. https://www.britannica.com/place/Palmyra-Syria</lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:term>Krieg</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="1">Welt (2016). Fotos zeigen Ausmaß der Zerstörung in Palmyra. https://www.welt.de/politik/article153948917/Fotos-zeigen-Ausmass-der-Zerstoerungen-in-Palmyra.html</lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Auslöschung von Kultur</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>2013</lido:earliestDate>
+                <lido:latestDate>2016</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Tadmur, Syrien</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>34.56597553991679 38.285293454524584</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Syrischer Bürgerkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q178810</lido:eventID>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/1041651422</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>syrische Armee</lido:appellationValue>
+                          <lido:appellationValue>syrische Rebellen</lido:appellationValue>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Bürgerkrieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-03-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Syrien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Syrien</lido:appellationValue>
+                        <lido:sourceAppellation>Wieland, C. (2020). Syrien. Bundeszentrale für politische Bildung. https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/54705/syrien/  18.06.2020</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Palmyra war immer wieder aktiver Schauplatz des Syrienkriegs und wurde zwischenzeitlich auch mehrfach vom IS besetzt (3). Die terroristische Organisation nutzte die Ruinenstadt für Hinrichtungen, beschmierte die Wände, zerstörte Skulpturen und sprengte mehrere Bauwerke der antiken Stadt (1). Einige Artefakte wurden geplündert und verkauft (1).Laut Experten wird der Wiederaufbau Palmyras sehr aufwendig sein und lange dauern, da vor allem die wichtigsten Stätten in Palmyra fast komplett zerstört wurden (1).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Welt (2016). Fotos zeigen Ausmaß der Zerstörung in Palmyra. https://www.welt.de/politik/article153948917/Fotos-zeigen-Ausmass-der-Zerstoerungen-in-Palmyra.html</lido:label>
+                  <lido:label number="3">Wikipedia (2022). Palmyra. https://de.wikipedia.org/wiki/Palmyra</lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Palmyra</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Palmyra/Bild1</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>	https://whc.unesco.org/en/documents/107712</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2007-01-16</lido:earliestDate>
+            </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Francesco Bandarin</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en</lido:conceptID>
+              <lido:term>CC BY-SA 3.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

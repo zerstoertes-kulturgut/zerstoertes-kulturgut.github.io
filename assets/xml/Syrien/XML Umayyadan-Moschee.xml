@@ -1,0 +1,200 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/UmayyadenMoschee</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Umayyaden Moschee</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Umayyaden Moschee</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q1481968</lido:conceptID>
+            <lido:term xml:lang="de">Umayyaden-Moschee</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Umayyaden-Moschee</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Great Mosque of Aleppo</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">الجامع الأموي</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>36.199296560720875 37.15668078755107</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Die Umayyaden-Moschee von Aleppo wurde 715 n. Chr. konstruiert und galt als besondere Stätte, da sie angeblich die Überreste des Propheten Zacharias beherbergte (4). Sie war ein Weltkulturerbe und wurde 2005 aufwendig renoviert (2). Bereits im Jahr 1169 brannte die Moschee schon ein Mal komplett nieder (4).</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Maurus, H.-J. (2014). Massive Zerstörung von Kulturstätten. Deutschlandfunk. https://www.deutschlandfunk.de/syrien-massive-zerstoerung-von-kulturstaetten-100.html </lido:label>
+                <lido:label number="2">Bockschmidt, R., Baykal, H. (2012). Die Weltkultur brennt. Tagesspiegel. https://www.tagesspiegel.de/wissen/buergerkrieg-in-syrien-die-weltkultur-brennt/7266924.html </lido:label>
+                <lido:label number="3">Wikipedia (2022). Umayyaden-Moschee (Aleppo). https://de.wikipedia.org/wiki/Umayyaden-Moschee_(Aleppo) </lido:label>
+                <lido:label number="4">Enzyklopädie des Islam (k.D.). Umayyaden-Moschee. http://www.eslam.de/begriffe/u/umayyaden-moschee_aleppo.htm </lido:label>
+                <lido:label number="5">Süddeutsche Zeitung (2013). Minarett der Umayyaden-Moschee von Aleppo stürzt ein. https://www.sueddeutsche.de/politik/unesco-weltkulturerbe-in-syrien-minarett-der-umayyaden-moschee-von-aleppo-stuerzt-ein-1.1658220 </lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:term>Krieg</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>syrische Armee</lido:appellationValue>
+                    <lido:appellationValue>syrische Rebellen</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="1">Maurus, H.-J. (2014). Massive Zerstörung von Kulturstätten. Deutschlandfunk. https://www.deutschlandfunk.de/syrien-massive-zerstoerung-von-kulturstaetten-100.html </lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Bürgerkrieg</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>2012-10</lido:earliestDate>
+                <lido:latestDate>2013-04</lido:latestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Aleppo, Syrien</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>36.199296560720875 37.15668078755107</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Syrischer Bürgerkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q178810</lido:eventID>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/1041651422</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>syrische Armee</lido:appellationValue>
+                          <lido:appellationValue>syrische Rebellen</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Bürgerkrieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-03-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Syrien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Syrien</lido:appellationValue>
+                        <lido:sourceAppellation>Wieland, C. (2020). Syrien. Bundeszentrale für politische Bildung. https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/54705/syrien/  18.06.2020</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Im Syrienkrieg wechselten die Besetzer der Moschee mehrfach bei den Kämpfen zwischen Rebellen und Regierungstruppen (2). Im Oktober 2012 kommt es zu einem Feuer in der Moschee, wobei diese völlig ausbrannte (2). Schließlich stürzte im April 2013 auch das ikonische Minarett - welches aus dem 11. Jahrhundert stammte und damit der älteste Teil der noch erhaltenen Moschee war - ein (2,5). Ob der Einsturz durch Beschuss oder die angegriffene Bausubstanz des Minaretts herbei geführt wurde, ist unklar (5).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Maurus, H.-J. (2014). Massive Zerstörung von Kulturstätten. Deutschlandfunk. https://www.deutschlandfunk.de/syrien-massive-zerstoerung-von-kulturstaetten-100.html </lido:label>
+                  <lido:label number="2">Bockschmidt, R., Baykal, H. (2012). Die Weltkultur brennt. Tagesspiegel. https://www.tagesspiegel.de/wissen/buergerkrieg-in-syrien-die-weltkultur-brennt/7266924.html </lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Umayyaden-Moschee</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Umayyaden-Moschee/Bild1</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>https://de.m.wikipedia.org/wiki/Datei:Great_mosque_court_Aleppo.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Bild</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate>2008-10-13</lido:earliestDate>
+                </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="owner oder creator">
+              <lido:legalBodyName>
+                <lido:appellationValue>Martijn Munneke</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+                <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+				<lido:term>CC BY 4.0</lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>
