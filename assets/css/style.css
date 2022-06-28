@@ -1364,6 +1364,81 @@ section {
   }
 }
 
+
+#contact table {
+  
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+  font-size: 14px;
+}
+
+#contact table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+#contact table tr {
+  padding: .35em;
+  text-align: center;
+}
+
+#contact table th,
+#contact table td {
+  padding: .625em;
+  text-align: center;
+}
+
+#contact table th {
+  font-size: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #cd853f;
+}
+
+@media screen and (max-width: 1024px) {
+  #contact table {
+    border: 0;
+  }
+  
+  #contact table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  #contact table tr {
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  #contact table td {
+    display: block;
+    font-size: 14px;
+    text-align: right;
+  }
+  
+  #contact table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  #contact table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+
 /* Download Button
 --------------------------------*/
 
