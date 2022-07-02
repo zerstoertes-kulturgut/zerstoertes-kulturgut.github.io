@@ -1,0 +1,200 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Al-MadinaSouq</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="en">Al-Madina Souq</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="en">Al-Madina Souq</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q2365332</lido:conceptID>
+            <lido:term xml:lang="en">Al-Madina Souq</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Basar von Aleppo</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Al-Madina Souq</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="ar">سُوق ٱلْحَمِيدِيَّة</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>36.200267903124, 37.1499720896279</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Mit seinen Gassen von insgesamt fast 13 Kilometern Länge war er der größte überdachte historische Markt der Welt (3) und war immer eine gut besuchte Touristenattraktion (4). Zwischen 700 und 1000 Läden sollen nach nicht zu verifizierenden Berichten aus der Stadt, welche die Unesco nicht zuletzt wegen ihres Basars zum Weltkulturerbe erklärt hatte, zerstört sein (3). Die bekannte Altstadt von Aleppo wurde im Jahr 1986 von der UNESCO zum Weltkulturerbe erklärt (1)</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Süddeutsche Zeitung. (2012). Historische Stadt in Gefahr. https://www.sueddeutsche.de/reise/altstadt-von-aleppo-in-syrien-feuer-vernichtet-schatz-der-menschheit-1.1421684</lido:label>
+                <lido:label number="2">NTV. (2012). Weltkultur wird Raub der Flammen. https://www.n-tv.de/mediathek/bilderserien/politik/Der-Souk-von-Aleppo-ist-abgebrannt-article7357951.html</lido:label>
+                <lido:label number="3">Augsburger Allgemeine. (2012). Basar von Aleppo: 500 Geschäfte durch Flammen zerstört. https://www.augsburger-allgemeine.de/politik/Syrien-Basar-von-Aleppo-500-Geschaefte-durch-Flammen-zerstoert-id22149856.html </lido:label>
+                <lido:label number="4">Huber, M. (2012). _Feuer in einer der ältesten Städte der Welt. _Süddeutsche Zeitung. https://www.sueddeutsche.de/politik/weltkulturerbe-aleppo-feuer-in-einer-der-aeltesten-staedte-der-welt-1.1482719 </lido:label>
+                <lido:label number="5">Chimelli, R. (2012). _Letzter Fundort für Bilder aus 1001 Nacht. _Süddeutsche Zeitung, https://www.sueddeutsche.de/kultur/basar-von-aleppo-bilder-aus-1001-nacht-1.1483012 </lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:term>Krieg</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Syrische Armee</lido:appellationValue>
+                    <lido:appellationValue>Rebellen</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Gegner</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="1">Süddeutsche Zeitung. (2012). Historische Stadt in Gefahr. https://www.sueddeutsche.de/reise/altstadt-von-aleppo-in-syrien-feuer-vernichtet-schatz-der-menschheit-1.1421684</lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Auslöschung von Kultur</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>2012-09-28</lido:earliestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Aleppo, Syrien</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>36.200267903124, 37.1499720896279</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Syrischer Bürgerkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q178810</lido:eventID>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/1041651422</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>syrische Armee</lido:appellationValue>
+                          <lido:appellationValue>syrische Rebellen</lido:appellationValue>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Bürgerkrieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-03-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Syrien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Syrien</lido:appellationValue>
+                        <lido:sourceAppellation>Wieland, C. (2020). Syrien. Bundeszentrale für politische Bildung. https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/54705/syrien/  18.06.2020</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Am 28. September 2012 brach, verursacht durch Kämpfe zwischen Rebellen und Soldaten der Regierung, ein Feuer in den Gewölben des Basars aus (1).Es sollen Bewaffnete diesen Ort besetzt haben, um von dort aus arabisch-syrische Soldaten anzugreifen (3). Die Opposition soll erklärt haben, dass die Regierungstruppen das Basarviertel nicht nur zur Vertreibung der Revolutionsgruppen angegriffen haben, sondern auch um sich an den Händlern zu reichen, die den Kämpfern Unterschlupf geboten haben (3).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Süddeutsche Zeitung. (2012). Historische Stadt in Gefahr. https://www.sueddeutsche.de/reise/altstadt-von-aleppo-in-syrien-feuer-vernichtet-schatz-der-menschheit-1.1421684 </lido:label>
+                  <lido:label number="3">Augsburger Allgemeine. (2012). Basar von Aleppo: 500 Geschäfte durch Flammen zerstört. https://www.augsburger-allgemeine.de/politik/Syrien-Basar-von-Aleppo-500-Geschaefte-durch-Flammen-zerstoert-id22149856.html </lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Al-MadinaSouk</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/Al-MadinaSouk/Bild1</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>https://en.wikipedia.org/wiki/Al-Madina_Souq#/media/File:Aleppo_Khan_Shuneh.jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2008-03-08</lido:earliestDate>
+            </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Khan al-Shouneh</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/2.5/</lido:conceptID>
+              <lido:term>CC BY 2.5</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>

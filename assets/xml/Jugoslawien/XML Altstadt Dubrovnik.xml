@@ -1,30 +1,29 @@
 <lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
   <lido:lido>
-    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoschee</lido:lidoRecID>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/AltstadtDubrovnik</lido:lidoRecID>
     <lido:descriptiveMetadata xml:lang="de">
       <lido:objectClassificationWrap>
         <lido:objectWorkTypeWrap>
           <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
-            <lido:term xml:lang="de">Hadum Moschee</lido:term>
+            <lido:term xml:lang="de">Altstadt Dubrovnik</lido:term>
           </lido:objectWorkType>
             <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
-            <lido:term xml:lang="de">Hadum Moschee</lido:term>
+            <lido:term xml:lang="de">Altstadt Dubrovnik</lido:term>
           </lido:objectWorkType>
         </lido:objectWorkTypeWrap>
         <lido:classificationWrap>
           <lido:classification lido:type="http://terminology.lido-schema.org/lido00937">
-            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q3324861</lido:conceptID>
-            <lido:term xml:lang="de">Hadum-Moschee</lido:term>
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q910661</lido:conceptID>
+            <lido:term xml:lang="de">Altstadt Dubrovnik</lido:term>
           </lido:classification>
         </lido:classificationWrap>
       </lido:objectClassificationWrap>
       <lido:objectIdentificationWrap>
         <lido:titleWrap>
           <lido:titleSet>
-            <lido:appellationValue lido:pref="preferred" xml:lang="de">Hadum-Moschee</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="en">Hadum mosque</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="sq">Xhamia e Hadumit</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="sr">Хадум џамија</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Altstadt von Dubrovnik</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Old City (Dubrovnik)</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="hr">Grad (Dubrovnik)</lido:appellationValue>
           </lido:titleSet>
         </lido:titleWrap>
         <lido:repositoryWrap>
@@ -32,7 +31,7 @@
             <lido:repositoryLocation>
               <lido:gml>
                 <gml:Point>
-                  <gml:pos>42.37936731536464 20.42738739907845</gml:pos>
+                  <gml:pos>42° 38'26.7"N 18°06'32.1"E  </gml:pos>
                 </gml:Point>
               </lido:gml>
             </lido:repositoryLocation>
@@ -41,13 +40,13 @@
         <lido:objectDescriptionWrap>
           <lido:objectDescriptionSet>
             <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido01110"></lido:descriptiveNoteID>
-            <lido:descriptiveNoteValue>Die Hadum-Moschee wurde 1594 in Gjakova erbaut und gilt als ein klassisches Exemplar islamischer Architektur im Balkan (4). Sie ist auch Gjakovas bedeutendste Sehenswürdigkeit (3). Im Jahr 1733 wurde in der Nähe der Moschee eine Bibliothek gebaut, die antike Manuskripte enthielt (3).</lido:descriptiveNoteValue>
+            <lido:descriptiveNoteValue>Die Altstadt Dubrovniks enthält Gothik-, Barock- und Renaissancegebäude, welche teilweise aus dem 7. Jahrhundert stammen (3). Im 13. Jahrhundert stieg die Stadt zu einer wichtigen Seemacht auf (2). Aufgrund ihres wichtigen kulturellen Erbes und der alten Gebäude wurde die Altstadt Dubrovniks 1979 zum UNESCO-Weltkulturerbe (1). Nach dem Jugoslawienkrieg wurde Dubrovnik in ein Restaurationsprogramm der UNESCO aufgenommen, sodass große Teile der Altstadt wieder hergestellt werden konnten. (2)</lido:descriptiveNoteValue>
             <lido:sourceDescriptiveNote>
               <lido:textComplexType>
-                <lido:label number="1">Cultural Heritage Without Borders (2009). Conservation and restoration of wall paintings and wooden decoration in Hadum Mosque, Gjakova.  http://chwb.org/kosovo/projects/conservation-and-restoration-of-wall-paintings-and-wooden-decoration-in-hadum-mosque-gjakova/</lido:label>
-                <lido:label number="2">Knowledgr (k.D.). Hadum Moschee. https://de.knowledgr.com/19474562/HadumMoschee</lido:label>
-                <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
-                <lido:label number="4">Lonely Planet (k.D.). Hadum Mosque. https://www.lonelyplanet.com/kosovo/gjakova/attractions/hadum-mosque/a/poi-sig/1545886/1341402</lido:label>
+                <lido:label number="1">Mappes-Niediek, N. (2016). Der Angriff auf Dubrovnik. Deutschlandfunkt. Link. https://www.deutschlandfunk.de/vor-25-jahren-der-angriff-auf-dubrovnik-100.html </lido:label>
+                <lido:label number="2">Unesco. (k.D.). Old City of Dubrovnik. Link. https://whc.unesco.org/en/list/95/ </lido:label>
+                <lido:label number="3">Wiedemann, E. (1999). Das verlorene Paradies. Spiegel. Link. https://www.spiegel.de/politik/das-verlorene-paradies-a-e82ee8f5-0002-0001-0000-000013436470 </lido:label>
+                <lido:label number="4">Kern, T. (2013). Beschuss und Belagerung von Dubrovnik. Swissinfo. Link. https://www.swissinfo.ch/ger/rueckblick---die-historische-stadt-im-fruehjahr-1992_beschuss-und-belagerung-von-dubrovnik/36213592 </lido:label>
               </lido:textComplexType>
             </lido:sourceDescriptiveNote>
           </lido:objectDescriptionSet>
@@ -57,16 +56,16 @@
         <lido:eventSet>
           <lido:event>
             <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
-              <lido:term>Terrorismus</lido:term>
+              <lido:term>Krieg</lido:term>
             </lido:eventType>
             <lido:eventName>
-              <lido:appellationValue>Zerstörung der Moschee</lido:appellationValue>
+              <lido:appellationValue>Jugoslawienkrieg</lido:appellationValue>
             </lido:eventName>
             <lido:eventActor>
               <lido:actorInRole>
                 <lido:actor>
                   <lido:nameActorSet>
-                    <lido:appellationValue>serbische Armee</lido:appellationValue>
+                    <lido:appellationValue>Jugoslawische Volksarmee</lido:appellationValue>
                   </lido:nameActorSet>
                 </lido:actor>
                 <lido:roleActor>
@@ -74,7 +73,7 @@
                 </lido:roleActor>
                 <lido:sourceActorInRole>
                   <lido:textComplexType>
-                    <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
+                    <lido:label number="1">Mappes-Niediek, N. (2016). Der Angriff auf Dubrovnik. Deutschlandfunkt. Link. https://www.deutschlandfunk.de/vor-25-jahren-der-angriff-auf-dubrovnik-100.html </lido:label>
                   </lido:textComplexType>
                 </lido:sourceActorInRole>
               </lido:actorInRole>
@@ -90,11 +89,11 @@
             <lido:eventPlace>
               <lido:place>
                 <lido:namePlaceSet>
-                    <lido:appellationValue>Đakovica (Gjakova), Kosovo</lido:appellationValue>
+                    <lido:appellationValue>Dubrovnik, Kosovo</lido:appellationValue>
                   </lido:namePlaceSet>
                 <lido:gml>
                   <gml:Point>
-                    <gml:pos>42.37936731536464 20.42738739907845</gml:pos>
+                    <gml:pos>42° 38'26.7"N 18°06'32.1"E </gml:pos>
                   </gml:Point>
                 </lido:gml>
               </lido:place>
@@ -146,11 +145,12 @@
               </lido:relatedEvent>
             </lido:relatedEventSet>
             <lido:eventDescriptionSet>
-              <lido:descriptiveNoteValue>Im Jahr 1999 zündeten Soldaten der serbischen Armee vorsätzlich die alte Moschee an. Es wird vermutet, dass man damit die Region von nicht-serbischen kulturellen Einflüssen bereinigen wollte. Obwohl viel dem Feuer anheim fiel, blieb einiges von der Moschee noch stehen. Jedoch erhielt 2000 das saudische Joint Relief Commitee die Erlaubnis, den Komplex wiederherzustellen. Anstatt zu restaurieren, rissen sie die beschädigte Bibliothek nieder und walzten den anliegenden Friedhof, der bei vorherigen Angriffen beschädigt wurde, einfach nieder.</lido:descriptiveNoteValue>
+              <lido:descriptiveNoteValue>Die südkroatische Stadt Dubrovnik und besonders ihre Altstadt wurde 1991 von der Jugoslawischen Volksarmee unter Beschuss genommen (1). Die Jugoslawische Volksarmee nahm zu Beginn der Kämpfe an, dass sich die kroatische Armee in der Stadt aufhielt, jedoch waren dort nur Beobachter der EU und die Zivilbevölkerung (1). Über 8 Monate lang - bis ins Frühjahr 1992 - wurde in der Stadt gekämpft, wobei zwei Drittel aller Häuser im historischen Stadkern schwer beschädigt wurden (3). Am schwersten Tag der Kämpfe, dem 6.12.1991, wurden ca. 600 Granaten auf die Altstadt abgefeuert (4).</lido:descriptiveNoteValue>
               <lido:sourceDescriptiveNote>
                 <lido:textComplexType>
-                  <lido:label number="2">Knowledgr (k.D.). Hadum Moschee. https://de.knowledgr.com/19474562/HadumMoschee</lido:label>
-                  <lido:label number="3">Zulficar, Saïd (2001). Mosques in the Balkans. Cairo Times. https://www.archnet.org/publications/3493</lido:label>
+                  <lido:label number="1">Mappes-Niediek, N. (2016). Der Angriff auf Dubrovnik. Deutschlandfunkt. Link. https://www.deutschlandfunk.de/vor-25-jahren-der-angriff-auf-dubrovnik-100.html</lido:label>
+                  <lido:label number="3">Wiedemann, E. (1999). Das verlorene Paradies. Spiegel. Link. https://www.spiegel.de/politik/das-verlorene-paradies-a-e82ee8f5-0002-0001-0000-000013436470 </lido:label>
+                  <lido:label number="4">Kern, T. (2013). Beschuss und Belagerung von Dubrovnik. Swissinfo. Link. https://www.swissinfo.ch/ger/rueckblick---die-historische-stadt-im-fruehjahr-1992_beschuss-und-belagerung-von-dubrovnik/36213592 </lido:label>
                 </lido:textComplexType>
                 </lido:sourceDescriptiveNote>
             </lido:eventDescriptionSet>
@@ -160,7 +160,7 @@
     </lido:descriptiveMetadata>
     <lido:administrativeMetadata xml:lang="de">
       <lido:recordWrap>
-        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoschee</lido:recordID>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/AltstadtDubrovnik</lido:recordID>
         <lido:recordType>
           <lido:term>Einzelobjekt</lido:term>
         </lido:recordType>
@@ -172,28 +172,28 @@
       </lido:recordWrap>
       <lido:resourceWrap>
       <lido:resourceSet>
-          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/HadumMoSchee/Bild1</lido:resourceID>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/AltstadtDubrovnik/Bild1</lido:resourceID>
           <lido:resourceRepresentation>
-            <lido:linkResource>https://www.wikidata.org/wiki/Q3324861#/media/File:Kompleksi_Xhamija_e_Hadumit_03.jpg</lido:linkResource>
+            <lido:linkResource>https://en.wikipedia.org/wiki/Siege_of_Dubrovnik#/media/File:Muzej_DR-crop.JPG</lido:linkResource>
           </lido:resourceRepresentation>
           <lido:resourceType>
             <lido:term>Bild</lido:term>
           </lido:resourceType>
           <lido:resourceDateTaken>
             <lido:date>
-              <lido:earliestDate>2013-10-15</lido:earliestDate>
+              <lido:earliestDate>2011-01-12</lido:earliestDate>
               </lido:date>
           </lido:resourceDateTaken>
           <lido:resourceSource>
             <lido:legalBodyName>
-              <lido:appellationValue>ShkelzenRexha</lido:appellationValue>
+              <lido:appellationValue>Bracodbk</lido:appellationValue>
             </lido:legalBodyName>
-            <lido:legalBodyWeblink>https://commons.wikimedia.org/wiki/User:ShkelzenRexha</lido:legalBodyWeblink>
+            <lido:legalBodyWeblink>https://commons.wikimedia.org/wiki/User:Bracodbk</lido:legalBodyWeblink>
           </lido:resourceSource>
           <lido:rightsResource>
             <lido:rightsType>
-              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
-              <lido:term>CC BY-SA 4.0</lido:term>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by-sa/3.0/</lido:conceptID>
+              <lido:term>CC BY-SA 3.0</lido:term>
             </lido:rightsType>
           </lido:rightsResource>
         </lido:resourceSet>

@@ -1,0 +1,199 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+  <lido:lido>
+    <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/NoriasvonHama</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+          <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Norias von Hama</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Norias von Hama</lido:term>
+          </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q15262467</lido:conceptID>
+            <lido:term xml:lang="de">Norias von Hama</lido:term>
+          </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+          <lido:titleSet>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Norias von Hama</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">Norias of Hama</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="ar">نواعير حماة</lido:appellationValue>
+          </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+          <lido:repositorySet>
+            <lido:repositoryLocation>
+              <lido:gml>
+                <gml:Point>
+                  <gml:pos>35.13529035980514, 36.75306050126096</gml:pos>
+                </gml:Point>
+              </lido:gml>
+            </lido:repositoryLocation>
+          </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+          <lido:objectDescriptionSet>
+            <lido:descriptiveNoteValue>Norias gibt es in Hama mindestens seit dem 4. Jahrhundert n. Chr., aber die heute zu sehenden Räder wurden von den Ayyubiden des 13. Jahrhunderts entworfen, die etwa 30 davon bauten. Davon sind 17 Norias erhalten, obwohl alle renoviert und/oder wieder aufgebaut wurden (2). Das größte Wasserschöpfrad am Orontes erreicht einen Durchmesser von 22 m und erhielt von den Bewohnern Hamas den Namen “al-Muhammadiyya” (3). Im arabischen Raum gelten die Norias von Hama als die schönsten jemals gebauten und mit bis zu 30 Metern Förderhöhe sind sie obendrein die weltweit höchsten ihrer Bauart. Ein Eintrag in die Liste des UNESCO Weltkulturerbe ist seit langem beantragt und hoffentlich werden die Norias dort aufgenommen.(6)</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>
+              <lido:textComplexType>
+                <lido:label number="1">Hafian, W. (2022).  Norias (nawa'ir) of Hama. _Discover Islamic Art. _https://islamicart.museumwnf.org/database_item.php?id=monument;ISL;sy;Mon01;32;en </lido:label>
+                <lido:label number="2">Grecu, I. (2014). Priceless monument lost in war zones of Syria and Iraq. _Dreamstime. _https://www.dreamstime.com/blog/priceless-monuments-lost-war-zones-syria-iraq-41409 </lido:label>
+                <lido:label number="3">Al-Dbiyat, M. (o. D.). _Die Wasserräder des Orontes in Syrien. _Syrien Heritage Archive Project. https://syrian-heritage.org/de/die-wasserraeder-des-orontes-in-syrien/ </lido:label>
+                <lido:label number="4">Sallou, R. &amp;  Röhlig, M. (2016). Die verlorenen Schätze. Der Spiegel. https://www.spiegel.de/wissenschaft/natur/syrien-weltkulturerbe-ruiniert-die-verlorenen-schaetze-a-1084794.html </lido:label>
+                <lido:label number="5">Unesco. (2015). Ancient City of Bosra. https://whc.unesco.org/en/soc/3184 </lido:label>
+                <lido:label number="6">Wizorek, F. (o. D.). Noria – Hamas antike Wasserradgiganten. https://www.xflow.eu/de/2007/04/08/syrien-hama-noria-wasserraeder/ </lido:label>
+              </lido:textComplexType>
+            </lido:sourceDescriptiveNote>
+          </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+          <lido:event>
+            <lido:eventType>
+              <lido:term>Krieg</lido:term>
+            </lido:eventType>
+            <lido:eventName>
+              <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+            </lido:eventName>
+            <lido:eventActor>
+              <lido:actorInRole>
+                <lido:actor>
+                  <lido:nameActorSet>
+                    <lido:appellationValue>Unbekannte Gruppe</lido:appellationValue>
+                  </lido:nameActorSet>
+                </lido:actor>
+                <lido:roleActor>
+                  <lido:term>Zerstörer</lido:term>
+                </lido:roleActor>
+                <lido:sourceActorInRole>
+                  <lido:textComplexType>
+                    <lido:label number="4">Sallou, R. &amp;  Röhlig, M. (2016). Die verlorenen Schätze. Der Spiegel. https://www.spiegel.de/wissenschaft/natur/syrien-weltkulturerbe-ruiniert-die-verlorenen-schaetze-a-1084794.html </lido:label>
+                  </lido:textComplexType>
+                </lido:sourceActorInRole>
+              </lido:actorInRole>
+            </lido:eventActor>
+            <lido:culture>
+              <lido:term>Auslöschung von Kultur</lido:term>
+            </lido:culture>
+            <lido:eventDate>
+              <lido:date>
+                <lido:earliestDate>2014-08-08</lido:earliestDate>
+              </lido:date>
+            </lido:eventDate>
+            <lido:eventPlace>
+              <lido:place>
+                <lido:namePlaceSet>
+                  <lido:appellationValue>Hama, Syrien</lido:appellationValue>
+                </lido:namePlaceSet>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>35.13529035980514, 36.75306050126096</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:place>
+            </lido:eventPlace>
+            <lido:relatedEventSet>
+              <lido:relatedEvent>
+                <lido:displayEvent>Syrischer Bürgerkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q178810</lido:eventID>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://d-nb.info/gnd/1041651422</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Syrischer Bürgerkrieg</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>syrische Armee</lido:appellationValue>
+                          <lido:appellationValue>syrische Rebellen</lido:appellationValue>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Bürgerkrieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-03-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Syrien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Syrien</lido:appellationValue>
+                        <lido:sourceAppellation>Wieland, C. (2020). Syrien. Bundeszentrale für politische Bildung. https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/54705/syrien/  18.06.2020</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+            <lido:eventDescriptionSet>
+              <lido:descriptiveNoteValue>Am 8. August 2014 ist wohl eines der Räder bei Kämpfen in Flammen aufgegangen (4). Das Feuer brannte den oberen Teil des Holzrades nieder, während der Steinsockel intakt blieb (4). Derzeit steht die Stadt unter der Kontrolle des syrischen Regimes (4).</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="4">Sallou, R. &amp;  Röhlig, M. (2016). Die verlorenen Schätze. Der Spiegel. https://www.spiegel.de/wissenschaft/natur/syrien-weltkulturerbe-ruiniert-die-verlorenen-schaetze-a-1084794.html</lido:label>
+                </lido:textComplexType>
+              </lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+          </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:recordWrap>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/NoriasvonHama</lido:recordID>
+        <lido:recordType>
+          <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+          <lido:legalBodyName>
+            <lido:appellationValue>Universität Trier</lido:appellationValue>
+          </lido:legalBodyName>
+        </lido:recordSource>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Syrien/NoriasvonHama/Bild1</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>https://de.wikipedia.org/wiki/Norias_von_Hama#/media/Datei:Hama,_Norias_(h%C3%B6lzerne_Sch%C3%B6pfr%C3%A4der)_schaufeln_quietschend_das_Wasser_aus_dem_Orontes_in_die_Aqu%C3%A4dukte_(38650889186).jpg</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2006-05-10</lido:earliestDate>
+            </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Herbert Frank</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">https://creativecommons.org/licenses/by/2.0/</lido:conceptID>
+              <lido:term>CC BY 2.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+</lido:lidoWrap>
