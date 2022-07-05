@@ -1,0 +1,198 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+	<lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/MashkiTor</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+        <lido:objectClassificationWrap>
+          <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+              <lido:term xml:lang="de">Mashki-Tor von Ninive</lido:term>
+			</lido:objectWorkType>
+          </lido:objectWorkTypeWrap>
+          <lido:classificationWrap>
+            <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+				<lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q112898801</lido:conceptID>
+        <lido:term xml:lang="de">Irakkrise 2014</lido:term>
+			</lido:classification>
+          </lido:classificationWrap>
+        </lido:objectClassificationWrap>
+        <lido:objectIdentificationWrap>
+          <lido:titleWrap>
+            <lido:titleSet>
+              <lido:appellationValue lido:pref="preferred" xml:lang="de">Mashki-Tor</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="en">Mashki Gate</lido:appellationValue>
+              <lido:appellationValue lido:pref="preferred" xml:lang="ar"></lido:appellationValue>
+            </lido:titleSet>
+          </lido:titleWrap>
+          <lido:repositoryWrap>
+            <lido:repositorySet>
+              <lido:repositoryLocation>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>36.361715294816875 43.14645273934873</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:repositoryLocation>
+            </lido:repositorySet>
+          </lido:repositoryWrap>
+          <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+              <lido:descriptiveNoteValue>Die antike Stadt von Ninive ist reich an kulturell wichtigen Stätten. (1) Von diesen ist das Mashki-Tor, so wie seine 14 Zwillinge, eine der prominentesten und ein wesentlicher Teil der Skyline der Stadt Mossul. (2) Tatsächlich sind von den ursprünglich 15 Toren von Ninive nur sechs bisher ausgegraben worden und von diesen auch nur vier restauriert worden: Das Mashki-Tor, das Adad-Tor, das Nergal-Tor und das Šamaš-Tor. (3) Die Restaurationsarbeiten an diesen vier Toren waren Teil eines Restaurationsprogramms in den 1960ern und 70ern. (4)Im April 2016 begann der IS, die restaurierten Tore zu zerstören (5) Ursprünglich dachte man, neben dem Mashki-Tor wäre auch das Nergal-Tor zerstört worden, doch bei Analysen von Satellitenbildern stellte sich heraus, dass tatsächlich das Adad-Tor zerstört wurde. (6) Als Motiv wird psychologische Kriegsführung und Erpressung der irakischen Regierung vermutet. (7)</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                  <lido:label number="1">Romey, K. (19.04.2016). Exclusive Photos Show Destruction of Nineveh Gates by ISIS. National Geographic https://www.nationalgeographic.com/history/article/160419-Islamic-State-ISIS-ISIL-Nineveh-gates-Iraq-Mosul-destroyed</lido:label>
+                  <lido:label number="2">The Aliph Foundation (2021). The Mashki Gate Restoration Mosul, Iraq https://www.aliph-foundation.org/en/projects/the-mashki-gate-restoration-mosul</lido:label>
+                  <lido:label number="3">Voon, C. (26.04.2016). ISIS Destroys Two Gates in Ancient City of Nineveh [UPDATED]. Hyperallergic https://hyperallergic.com/293232/isis-destroys-two-gates-in-ancient-city-of-nineveh/</lido:label>
+                  <lido:label number="4">Voon, C. (26.04.2016). ISIS Destroys Two Gates in Ancient City of Nineveh [UPDATED]. Hyperallergic https://hyperallergic.com/293232/isis-destroys-two-gates-in-ancient-city-of-nineveh/</lido:label>
+                  <lido:label number="5">Allinfo (2018). Mossul feiert ein kulturelles Comeback. https://allinfo.space/2018/09/09/mossul-feiert-ein-kulturelles-comeback/</lido:label>
+                  <lido:label number="6">Romey, K. (19.04.2016). Exclusive Photos Show Destruction of Nineveh Gates by ISIS. National Geographic https://www.nationalgeographic.com/history/article/160419-Islamic-State-ISIS-ISIL-Nineveh-gates-Iraq-Mosul-destroyed</lido:label>
+                  <lido:label number="7">Romey, K. (19.04.2016). Exclusive Photos Show Destruction of Nineveh Gates by ISIS. National Geographic https://www.nationalgeographic.com/history/article/160419-Islamic-State-ISIS-ISIL-Nineveh-gates-Iraq-Mosul-destroyed</lido:label>
+                </lido:textComplexType> 
+              </lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+          </lido:objectDescriptionWrap>
+        </lido:objectIdentificationWrap>
+        <lido:eventWrap>
+          <lido:eventSet>
+            <lido:event>
+              <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
+                <lido:term>Terrorismus</lido:term>
+              </lido:eventType>
+              <lido:eventName>
+                <lido:appellationValue>Zerstörung der Tore Ninives durch den IS</lido:appellationValue>
+              </lido:eventName>
+              <lido:eventActor>
+                <lido:actorInRole>
+                  <lido:actor>
+                    <lido:nameActorSet>
+                      <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                    </lido:nameActorSet>
+                  </lido:actor>
+                  <lido:roleActor>
+                    <lido:term>Zerstörer</lido:term>
+                  </lido:roleActor>
+                  <lido:sourceActorInRole>
+                    <lido:textComplexType>
+                      <lido:label number="6">Payton, M. (22.04.2016). _Isis fighters' destruction of Nineveh Gates captured in before and after photos. _The Independent https://www.independent.co.uk/news/world/middle-east/isis-fighters-destruction-of-nineveh-gates-captured-in-before-and-after-photos-a6994886.html</lido:label>
+                    </lido:textComplexType>
+                  </lido:sourceActorInRole>
+                </lido:actorInRole>
+              </lido:eventActor>
+              <lido:culture>
+                <lido:term>Auslöschung von Kultur</lido:term>
+              </lido:culture>
+              <lido:eventDate>
+                <lido:date>
+                  <lido:earliestDate>2016-04-??</lido:earliestDate>
+                </lido:date>
+              </lido:eventDate>
+              <lido:eventPlace>
+                <lido:place>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Mossul, Irak</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point>
+                      <gml:pos>36.361715294816875 43.14645273934873</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:eventPlace>
+              <lido:relatedEventSet>
+                <lido:relatedEvent>
+                <lido:displayEvent>Irakkrise 2014</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q17144192</lido:eventID>
+                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType> 
+                  <lido:eventName>
+                    <lido:appellationValue>Irakkrise 2014</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Islamischer Staat</lido:appellationValue>
+                          <lido:appellationValue>Irak</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Krieg</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>2011-12-15</lido:earliestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Irak</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Irak</lido:appellationValue>
+                        <lido:sourceAppellation>BBC (15.12.2011). US flag ceremony marks formal end of Iraq war role. https://www.bbc.com/news/world-us-canada-16192105</lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+              </lido:relatedEventSet>
+              <lido:eventDescriptionSet>
+                <lido:descriptiveNoteValue>Im April 2016 begann der IS, die restaurierten Tore zu zerstören (5) Ursprünglich dachte man, neben dem Mashki-Tor wäre auch das Nergal-Tor zerstört worden, doch bei Analysen von Satellitenbildern stellte sich heraus, dass tatsächlich das Adad-Tor zerstört wurde. (6) Als Motiv wird psychologische Kriegsführung und Erpressung der irakischen Regierung vermutet. (7)</lido:descriptiveNoteValue>
+                <lido:sourceDescriptiveNote>
+                  <lido:textComplexType>
+                    <lido:label number="5">Allinfo (2018). Mossul feiert ein kulturelles Comeback. https://allinfo.space/2018/09/09/mossul-feiert-ein-kulturelles-comeback/</lido:label>
+                    <lido:label number="6">Romey, K. (19.04.2016). Exclusive Photos Show Destruction of Nineveh Gates by ISIS. National Geographic https://www.nationalgeographic.com/history/article/160419-Islamic-State-ISIS-ISIL-Nineveh-gates-Iraq-Mosul-destroyed</lido:label>
+                    <lido:label number="7">Romey, K. (19.04.2016). Exclusive Photos Show Destruction of Nineveh Gates by ISIS. National Geographic https://www.nationalgeographic.com/history/article/160419-Islamic-State-ISIS-ISIL-Nineveh-gates-Iraq-Mosul-destroyed</lido:label>
+                  </lido:textComplexType> 
+                </lido:sourceDescriptiveNote>
+              </lido:eventDescriptionSet>
+            </lido:event>
+          </lido:eventSet>
+        </lido:eventWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+        <lido:recordWrap>
+          <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/MashkiTor</lido:recordID>
+          <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+          </lido:recordType>
+          <lido:recordSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Universität Trier</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:recordSource>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+          <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/MashkiTor/Bild1</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>https://upload.wikimedia.org/wikipedia/commons/archive/4/46/20130907213438%21Nineveh_mashki_gate_from_west.JPG</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Bild</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate>x</lido:earliestDate>
+                  <lido:latestDate></lido:latestDate>
+                </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource>
+              <lido:legalBodyName>
+                <lido:appellationValue>Clouzzo / Wikimedia Commons</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+                <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org">bsp.:https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+				<lido:term> bsp.: CC BY-SA 4.0</lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+        </lido:resourceWrap>
+      </lido:administrativeMetadata>
+  	</lido:lido>
+</lido:lidoWrap>
