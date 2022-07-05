@@ -1,0 +1,202 @@
+<lido:lidoWrap xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:lido="http://www.lido-schema.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xsi:schemaLocation="http://www.lido-schema.org/schema/v1.1/lido-v1.1.xsd">
+	<lido:lido>
+      <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/Vjiećnica</lido:lidoRecID>
+      <lido:descriptiveMetadata xml:lang="de">
+        <lido:objectClassificationWrap>
+          <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
+            <lido:term xml:lang="de">Vijećnica</lido:term>
+          </lido:objectWorkType>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
+            <lido:term xml:lang="de">Vjiećnica</lido:term>
+          </lido:objectWorkType>
+          </lido:objectWorkTypeWrap>
+          <lido:classificationWrap>
+            <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
+				<lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q16831150</lido:conceptID>
+		    		<lido:term xml:lang="de">Vjiećnica</lido:term>
+			</lido:classification>
+          </lido:classificationWrap>
+        </lido:objectClassificationWrap>
+        <lido:objectIdentificationWrap>
+          <lido:titleWrap>
+            <lido:titleSet>
+              <lido:appellationValue xml:lang="de">Vjiećnica</lido:appellationValue>
+              <lido:appellationValue xml:lang="en">Vjiećnica</lido:appellationValue>
+              <lido:appellationValue xml:lang="hr">Vjiećnica</lido:appellationValue>
+            </lido:titleSet>
+          </lido:titleWrap>
+          <lido:repositoryWrap>
+            <lido:repositorySet>
+              <lido:repositoryLocation>
+                <lido:gml>
+                  <gml:Point>
+                    <gml:pos>43.8590399190966 18.433428768450796</gml:pos>
+                  </gml:Point>
+                </lido:gml>
+              </lido:repositoryLocation>
+            </lido:repositorySet>
+          </lido:repositoryWrap>
+          <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+              <lido:descriptiveNoteValue>Die Vijećnica galt und gilt weiterhin als das Wahrzeichen der Stadt Sarajevos. In ihrer bunten Mischung aus architektonischen Stilen (arabisch, spanisch und osmanisch) sehen viele den Multikulturalismus der Stadt repräsentiert. (1)Das Gebäude wurde in den 1890er Jahren errichtet und diente bis 1945 als Stadthalle. (2) Ab 1945 diente das Gebäude als Nationalbibliothek Bosnien und Herzegowinas und beherbergte eine große Sammlung von seltenen oder gar einzigartigen Schriften. (3) Während den Kriegen im ehemaligen Jugoslawien wurde Sarajevo ab dem Frühjahr 1992 für fast 4 Jahre ununterbrochen von serbischen Truppen belagert. (4) im selben Jahr, als die Belagerung begann, schossen die belagernden Soldaten am 25. und 26. August gezielt auf die bereits beschädigte Vijećnica mit Brandbomben. Es wird vermutet, dass dahinter auch die Intention steckte, die kulturelle Identität der bosnischen Bevölkerung anzugreifen. (5) Bei dem Angriff sollten ein Großteil der wertvollen Sammlung in Flammen aufgehen, nur circa ein Fünftel aller Bücher konnte in Sicherheit gebracht werden.Nach dem Ende des Krieges in Bosnien und Herzegowina begann man ab 1996 mit der Restauration der alten Stadthalle. am 9. Mai 2014 wurde sie wiedereröffnet und dient seitdem wieder als Stadthalle. (vjiecnicawebsite) Die Nationalbibliothek wurde bis heute nicht wieder eröffnet aufgrund von andauernden politischen Spannungen zwischen der serbischen Teilrepublik Srpska und dem Rest Bosniens und Herzegowinas. (7)</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>
+                <lido:textComplexType>
+                <lido:label number="1">Wölfl, A. (10.01.2014). Altes Rathaus in neuem Glanz. Der Standard. https://www.derstandard.at/story/1388650692314/altes-rathaus-in-neuem-glanz</lido:label>
+                <lido:label number="2">Leggewie, C. (23.04.1994). Bis zum Krieg war sie ein Zentrum des intellektuellen Lebens in Südosteuropa. 1992 wurde die Bibliothek von Sarajevo durch serbische Artillerie in Brand gesetzt. Ihr Wiederaufbau wäre lebendiges Symbol der Verteidigung des Multikulturellen. taz. https://taz.de/Bis-zum-Krieg-war-sie-ein-Zentrum-des-intellektuellen-Lebens-in-Suedosteuropa-1992-wurde-die-Bibliothek-von-Sarajevo-durch-serbische-Artillerie-in-Brand-gesetzt-Ihr-Wiederaufbau-waere-lebendiges-Symbol-der-Verteidigung-des-Multikulturellen-Von-Claus-Leggewie/!1565845/</lido:label>
+                <lido:label number="3">Leggewie, C. (23.04.1994). Bis zum Krieg war sie ein Zentrum des intellektuellen Lebens in Südosteuropa. 1992 wurde die Bibliothek von Sarajevo durch serbische Artillerie in Brand gesetzt. Ihr Wiederaufbau wäre lebendiges Symbol der Verteidigung des Multikulturellen. taz. https://taz.de/Bis-zum-Krieg-war-sie-ein-Zentrum-des-intellektuellen-Lebens-in-Suedosteuropa-1992-wurde-die-Bibliothek-von-Sarajevo-durch-serbische-Artillerie-in-Brand-gesetzt-Ihr-Wiederaufbau-waere-lebendiges-Symbol-der-Verteidigung-des-Multikulturellen-Von-Claus-Leggewie/!1565845/</lido:label>
+                <lido:label number="4">Bundeszentrale für politische Bildung (29.02.2016). Vor 20 Jahren: Ende der Belagerung von Sarajevo. https://www.bpb.de/kurz-knapp/hintergrund-aktuell/222161/vor-20-jahren-ende-der-belagerung-von-sarajevo/</lido:label>
+                <lido:label number="5">Leggewie, C. (23.04.1994). Bis zum Krieg war sie ein Zentrum des intellektuellen Lebens in Südosteuropa. 1992 wurde die Bibliothek von Sarajevo durch serbische Artillerie in Brand gesetzt. Ihr Wiederaufbau wäre lebendiges Symbol der Verteidigung des Multikulturellen. taz. https://taz.de/Bis-zum-Krieg-war-sie-ein-Zentrum-des-intellektuellen-Lebens-in-Suedosteuropa-1992-wurde-die-Bibliothek-von-Sarajevo-durch-serbische-Artillerie-in-Brand-gesetzt-Ihr-Wiederaufbau-waere-lebendiges-Symbol-der-Verteidigung-des-Multikulturellen-Von-Claus-Leggewie/!1565845/</lido:label>
+                <lido:label number="6">Gradska vijećnica Sarajevo (Unbekannt). Introduction Vijećnica. https://www.vijecnica.ba/en/home</lido:label>
+                <lido:label number="7">Wölfl, A. (10.01.2014). Altes Rathaus in neuem Glanz. Der Standard. https://www.derstandard.at/story/1388650692314/altes-rathaus-in-neuem-glanz</lido:label>
+              </lido:textComplexType>
+             </lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+          </lido:objectDescriptionWrap>
+        </lido:objectIdentificationWrap>
+        <lido:eventWrap>
+          <lido:eventSet>
+            <lido:event>
+              <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
+              </lido:eventType>
+              <lido:eventName>
+                <lido:appellationValue>Zerstörung der Nationalbibliothek</lido:appellationValue>
+              </lido:eventName>
+              <lido:eventActor>
+                <lido:actorInRole>
+                  <lido:actor>
+                    <lido:nameActorSet>
+                      <lido:appellationValue>serbische Armee</lido:appellationValue>
+                    </lido:nameActorSet>
+                  </lido:actor>
+                  <lido:roleActor>
+                    <lido:term>Zerstörer</lido:term>
+                  </lido:roleActor>
+                  <lido:sourceActorInRole>
+                    <lido:textComplexType>
+                      <lido:label number="5">Bis zum Krieg war sie ein Zentrum des intellektuellen Lebens in Südosteuropa. 1992 wurde die Bibliothek von Sarajevo durch serbische Artillerie in Brand gesetzt. Ihr Wiederaufbau wäre lebendiges Symbol der Verteidigung des Multikulturellen. taz. https://taz.de/Bis-zum-Krieg-war-sie-ein-Zentrum-des-intellektuellen-Lebens-in-Suedosteuropa-1992-wurde-die-Bibliothek-von-Sarajevo-durch-serbische-Artillerie-in-Brand-gesetzt-Ihr-Wiederaufbau-waere-lebendiges-Symbol-der-Verteidigung-des-Multikulturellen-Von-Claus-Leggewie/!1565845/</lido:label>
+                    </lido:textComplexType>
+                  </lido:sourceActorInRole>
+                </lido:actorInRole>
+              </lido:eventActor>
+              <lido:culture>
+                <lido:term>absichtliche Zerstörung</lido:term>
+              </lido:culture>
+              <lido:eventDate>
+                <lido:date>
+                  <lido:earliestDate>1992-08-25</lido:earliestDate>
+                  <lido:latestDate>1992-08-26</lido:latestDate>
+                </lido:date>
+              </lido:eventDate>
+              <lido:eventPlace>
+                <lido:place>
+                  <lido:namePlaceSet>
+                    <lido:appellationValue>Sarajevo, Bosnien-Herzegowina</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                    <gml:Point>
+                      <gml:pos>43.8590399190966 18.433428768450796</gml:pos>
+                    </gml:Point>
+                  </lido:gml>
+                </lido:place>
+              </lido:eventPlace>
+              <lido:relatedEventSet>
+                <lido:relatedEvent>
+                <lido:displayEvent>Jugoslavienkrieg</lido:displayEvent>
+                <lido:event>
+                  <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q242352</lido:eventID>
+                  <lido:eventType>http://terminology.lido-schema.org/lido00023</lido:eventType>
+                  <lido:eventName>
+                    <lido:appellationValue>Jugoslawienkriege</lido:appellationValue>
+                  </lido:eventName>
+                  <lido:eventActor>
+                    <lido:actorInRole>
+                      <lido:actor>
+                        <lido:nameActorSet>
+                          <lido:appellationValue>Slowenien</lido:appellationValue>
+                          <lido:appellationValue>Kroatien</lido:appellationValue>
+                          <lido:appellationValue>Bosnien und Herzegowina</lido:appellationValue>
+                          <lido:appellationValue>Kosovo</lido:appellationValue>
+                          <lido:appellationValue>Nordmazedonien</lido:appellationValue>
+                        </lido:nameActorSet>
+                      </lido:actor>
+                      <lido:roleActor>
+                        <lido:term>Gegner</lido:term>
+                      </lido:roleActor>
+                    </lido:actorInRole>
+                  </lido:eventActor>
+                  <lido:culture>
+                    <lido:term>Unabhängigkeitsbewergungen</lido:term>
+                  </lido:culture>
+                  <lido:eventDate>
+                    <lido:date>
+                      <lido:earliestDate>1991-03-31</lido:earliestDate>
+                      <lido:latestDate>2001-11-12</lido:latestDate>
+                    </lido:date>
+                  </lido:eventDate>
+                  <lido:eventPlace>
+                    <lido:displayPlace>Jugoslawien</lido:displayPlace>
+                    <lido:place>
+                      <lido:namePlaceSet>
+                        <lido:appellationValue>Jugoslawien</lido:appellationValue>
+                        <lido:sourceAppellation>Sarovic, A. (2016). Jugoslawienkrieg - Antworten auf die zehn wichtigsten Fragen. Spiegel. https://www.spiegel.de/geschichte/jugoslawien-krieg-antworten-auf-die-wichtigsten-fragen-a-1099538.html </lido:sourceAppellation>
+                      </lido:namePlaceSet>
+                    </lido:place>
+                  </lido:eventPlace>
+                </lido:event>
+              </lido:relatedEvent>
+            </lido:relatedEventSet>
+              <lido:eventDescriptionSet>
+                <lido:descriptiveNoteValue>
+                    Am 25. und 26. August schossen die belagernden Soldaten gezielt auf die bereits beschädigte Vijećnica mit Brandbomben. Es wird vermutet, dass dahinter auch die Intention steckte, die kulturelle Identität der bosnischen Bevölkerung anzugreifen. (5) Bei dem Angriff sollten ein Großteil der wertvollen Sammlung in Flammen aufgehen, nur circa ein Fünftel aller Bücher konnte in Sicherheit gebracht werden.</lido:descriptiveNoteValue>
+                <lido:sourceDescriptiveNote>
+                  <lido:textComplexType>
+                    <lido:label number="5">Bis zum Krieg war sie ein Zentrum des intellektuellen Lebens in Südosteuropa. 1992 wurde die Bibliothek von Sarajevo durch serbische Artillerie in Brand gesetzt. Ihr Wiederaufbau wäre lebendiges Symbol der Verteidigung des Multikulturellen. taz. https://taz.de/Bis-zum-Krieg-war-sie-ein-Zentrum-des-intellektuellen-Lebens-in-Suedosteuropa-1992-wurde-die-Bibliothek-von-Sarajevo-durch-serbische-Artillerie-in-Brand-gesetzt-Ihr-Wiederaufbau-waere-lebendiges-Symbol-der-Verteidigung-des-Multikulturellen-Von-Claus-Leggewie/!1565845/</lido:label>
+                  </lido:textComplexType>
+                </lido:sourceDescriptiveNote>
+              </lido:eventDescriptionSet>
+            </lido:event>
+          </lido:eventSet>
+        </lido:eventWrap>
+      </lido:descriptiveMetadata>
+      <lido:administrativeMetadata xml:lang="de">
+        <lido:recordWrap>
+          <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/Vijećnica</lido:recordID>
+          <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+          </lido:recordType>
+          <lido:recordSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>Universität Trier</lido:appellationValue>
+            </lido:legalBodyName>
+          </lido:recordSource>
+        </lido:recordWrap>
+        <lido:resourceWrap>
+          <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Jugoslawien/Vijećnica/Bild1</lido:resourceID>
+            <lido:resourceRepresentation>
+              <lido:linkResource>https://commons.wikimedia.org/wiki/Category:Town_hall_in_Sarajevo#/media/File:Sarajevo,_knihovna.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+              <lido:term>Bild</lido:term>
+            </lido:resourceType>
+            <lido:resourceDateTaken>
+              <lido:date>
+                  <lido:earliestDate>2013-08-04</lido:earliestDate>
+                  </lido:date>
+            </lido:resourceDateTaken>
+            <lido:resourceSource lido:type="owner oder creator">
+              <lido:legalBodyName>
+                <lido:appellationValue>Aktron / Wikimedia Commons</lido:appellationValue>
+              </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+              <lido:rightsType>
+				<lido:term>Freie Benutzung</lido:term>
+              </lido:rightsType>
+            </lido:rightsResource>
+          </lido:resourceSet>
+        </lido:resourceWrap>
+      </lido:administrativeMetadata>
+  	</lido:lido>
+</lido:lidoWrap>
