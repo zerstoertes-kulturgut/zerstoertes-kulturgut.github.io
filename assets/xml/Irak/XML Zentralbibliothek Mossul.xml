@@ -169,7 +169,7 @@
           <!--<lido:resourceSet>
             <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Irak/Zentralbibliothek-Mossul</lido:resourceID>
             <lido:resourceRepresentation>
-              <lido:linkResource>Link zum Bild (Beispiel)</lido:linkResource>
+              <lido:linkResource>Link zum Bild</lido:linkResource>
             </lido:resourceRepresentation>
             <lido:resourceType>
               <lido:term>Bild</lido:term>

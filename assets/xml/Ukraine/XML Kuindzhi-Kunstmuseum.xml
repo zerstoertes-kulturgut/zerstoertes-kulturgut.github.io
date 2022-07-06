@@ -172,8 +172,8 @@
           </lido:legalBodyName>
         </lido:recordSource>
       </lido:recordWrap>
-      <!--<lido:resourceWrap>
-        <lido:resourceSet>
+      <lido:resourceWrap>
+       <!-- <lido:resourceSet>
           <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukraine/Kuindzhi-Kunstmuseum</lido:resourceID>
           <lido:resourceRepresentation>
             <lido:linkResource>Link zum Bild (Beispiel)</lido:linkResource>
@@ -199,8 +199,8 @@
             </lido:rightsType>
           </lido:rightsResource>
         </lido:resourceSet>
-        das "resourceSet" für jedes einzelne Bild dann zu wiederholen.
-      </lido:resourceWrap> -->
+        das "resourceSet" für jedes einzelne Bild dann zu wiederholen.-->
+      </lido:resourceWrap> 
     </lido:administrativeMetadata>
   </lido:lido>
 </lido:lidoWrap>
