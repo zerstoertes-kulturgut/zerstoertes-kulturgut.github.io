@@ -1714,6 +1714,10 @@ section {
   padding: 70px 70px 70px 70px;
 }
 
+#datenschutz .datenschutz .seal{
+  text-align: center;
+}
+
 
 /*--------------------------------------------------------------
 # Akkordeon
