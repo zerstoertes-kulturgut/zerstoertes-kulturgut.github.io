@@ -1,2 +1,0 @@
-Thank you for the kind remark - we'll use the term 'cultural heritage' from now on.
-In our XML-files, we use GND identifiers and Wikidata IDs to link other resources and make our work interoperable as well as reusable to other researchers.
