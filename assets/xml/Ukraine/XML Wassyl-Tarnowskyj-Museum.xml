@@ -10,17 +10,17 @@
         </lido:ObjectWorkTypeWrap>
         <lido:ClassificationWrap>
           <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
-            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q4513546 </lido:conceptID>
-            <lido:term xml:lang="de">Historisches Museum Wassyl Tarnowskyj des Oblasts Tschernihiw</lido:term>
+            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q12085271</lido:conceptID>
+            <lido:term xml:lang="de">Wassyl-Tarnowskyj-Haus</lido:term>
           </lido:classification>
         </lido:ClassificationWrap>
       </lido:ObjectClassificationWrap>
       <lido:ObjectIdentificationWrap>
         <lido:TitleWrap>
           <lido:TitleSet>
-            <lido:appellationValue lido:pref="preferred" xml:lang="de">Historisches Museum Wassyl Tarnowskyj des Oblasts Tschernihiw</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="en">Chernihiv Historical Museum</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="uk">Чернігівський історичний музей</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="de">Wassyl-Tarnowskyj-Haus</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="en">V. Tarnovskyi House Museum</lido:appellationValue>
+            <lido:appellationValue lido:pref="preferred" xml:lang="uk">Будинок В. В. Тарновського</lido:appellationValue>
           </lido:TitleSet>
         </lido:TitleWrap>
         <lido:repositoryWrap>
@@ -28,7 +28,7 @@
             <lido:repositoryLocation>
               <lido:gml>
                 <gml:Point>
-                  <gml:pos>51.48930125146648 31.309486871728303</gml:pos>
+                  <gml:pos>51.50232336918024, 31.325605536691075</gml:pos>
                 </gml:Point>
               </lido:gml>
             </lido:repositoryLocation>
@@ -37,12 +37,11 @@
         <lido:objectDescriptionWrap>
           <lido:objectDescriptionSet>
             <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido01110"></lido:descriptiveNoteID>
-            <lido:descriptiveNoteValue>Das historische Museum von Chernihiv wurde 1923 gegründet und führte verschiedene Sammlungen. Unter anderem auch das 1897 von Wassyl Tarnowskyj junior gegründete Museum für ukrainische Altertümer (2). Es besaß über 160.000 Artefakte, die von archäologischen Ausgrabungen aus der Ukraine stammten (2). 1991 wurde das Museum in Vasil Tarnofski Museum of Ukrainian Antiquities umbenannt (2;3). </lido:descriptiveNoteValue>
+            <lido:descriptiveNoteValue>Das historische Museum von Chernihiv wurde 1902 gegründet und führte verschiedene Sammlungen. Unter anderem auch das 1897 von Wassyl Tarnowskyj junior gegründete Museum für ukrainische Altertümer (2). 1933 ist das Museum in ein Gebäude eines ehemaligen Männergymnasiums umgezogen, welches im zweiten Weltkrieg allerdings zerstört wurde. Ende der 1970er Jahre ist das Museum wieder in seine ursprünglichen Räumlichkeiten zurückgekehrt und das Haus von Wassyl Tarnowskyj wurde 1980 zur Kinder- und Jugendbibliothek (5).</lido:descriptiveNoteValue>
             <lido:sourceDescriptiveNote>
               <lido:textComplexType>
-                <lido:label number="1">Kishkovsky, S. (15.03.2022). Museum building heavily damaged in Ukraine's battle-ravaged city of Chernihiv. The Art Newspaper. https://www.theartnewspaper.com/2022/03/15/museum-building-heavily-damaged-in-ukraines-battle-ravaged-city-of-chernihiv</lido:label>
                 <lido:label number="2">Internet Encyclopedia of Ukraine (2020). Chernihiv Historical Museum. http://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CC%5CH%5CChernihivHistoricalMuseum.htm</lido:label>
-                <lido:label number="3">Laevsky, S. (11.03.2022) Das Gebäude des Museums der ukrainischen Altertümer Vasyl Tarnovsky. Facebook https://www.facebook.com/laievsky/posts/5316862998347717</lido:label>
+                <lido:label number="5">Offizielle Webseite des Museums. http://www.choim.org/about-us/history/ (zuletzte abgerufen: 20.02.2023)</lido:label>
               </lido:textComplexType>
             </lido:sourceDescriptiveNote>
           </lido:objectDescriptionSet>
@@ -54,7 +53,7 @@
             <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
             </lido:eventType>
             <lido:eventName>
-              <lido:appellationValue>Bombardierung des Wassyl Tarnowskyj Museums</lido:appellationValue>
+              <lido:appellationValue>Bombardierung von Chernihiv</lido:appellationValue>
             </lido:eventName>
             <lido:eventActor>
               <lido:ActorInRole>
@@ -146,11 +145,12 @@
               </lido:relatedEvent>
             </lido:relatedEventSet>
             <lido:eventDescriptionSet>
-              <lido:descriptiveNoteValue>Das historische Museum von Chernihiv wurde beim russischen Angriff auf die Stadt am 11.03.2022 durch Bombeneinschläge zerstört (1). Der Betreiber Serhiey Laevsky postet auf Facebook Fotos von dem zestörten Gebäube, welches die Revolution 1918/19 und den Zweiten Weltkrieg überlebt hatte (3).</lido:descriptiveNoteValue>
+              <lido:descriptiveNoteValue>Das ehemalige historische Museum von Chernihiv wurde beim russischen Angriff auf die Stadt am 11.03.2022 durch Bombeneinschläge zerstört (1). Das Gebäude wurde als regionale Kinderbibliothek genutzt (4). Der Betreiber Serhiey Laevsky postet auf Facebook Fotos von dem zestörten Gebäube, welches die Revolution 1918/19 und den Zweiten Weltkrieg überlebt hatte (3).</lido:descriptiveNoteValue>
               <lido:sourceDescriptiveNote>
                 <lido:textComplexType>
                     <lido:label number="1">Kishkovsky, S. (15.03.2022). Museum building heavily damaged in Ukraine's battle-ravaged city of Chernihiv. The Art Newspaper. https://www.theartnewspaper.com/2022/03/15/museum-building-heavily-damaged-in-ukraines-battle-ravaged-city-of-chernihiv </lido:label>
                     <lido:label number="3">Laevsky, S. (11.03.2022) Das Gebäude des Museums der ukrainischen Altertümer Vasyl Tarnovsky. Facebook https://www.facebook.com/laievsky/posts/5316862998347717</lido:label>
+                    <lido:label number="4">Offizielle Datenbank der ukrainischen Regierung zur Dokumentation zerstörter Kulturgüter https://mkip.notion.site/e9a4dfe6aa284de38673efedbe147b51?v=54771b916dea45afbede08de1721ce4a&p=8825e559334b4b85abad63485c115686&pm=s (zuletzte besucht: 20.02.2023)</lido:label>
                   </lido:textComplexType>
               </lido:sourceDescriptiveNote>
             </lido:eventDescriptionSet>
@@ -160,7 +160,7 @@
     </lido:descriptiveMetadata>
     <lido:administrativeMetadata>
       <lido:recordWrap>
-        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukraine/Wassyl-Tarnowskyj-Museum</lido:recordID>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukraine/Wassyl-Tarnowskyj-Haus</lido:recordID>
         <lido:recordType>
           <lido:term>Einzelobjekt</lido:term>
         </lido:recordType>
@@ -174,7 +174,7 @@
         <lido:resourceSet>
           <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Ukraine/Wassyl-Tarnofskyj-Museum</lido:resourceID>
           <lido:resourceRepresentation>
-            <lido:linkResource>https://en.wikipedia.org/wiki/Chernihiv_Regional_Art_Museum#/media/File:2015_%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2.jpg</lido:linkResource>
+            <lido:linkResource>https://www.wikidata.org/wiki/Q12085271#/media/File:2014_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B3%D1%96%D0%B2_%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B6%D0%B8%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9_%D0%A2%D0%B0%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D1%84%D0%BE%D1%82%D0%BE_02.jpg</lido:linkResource>
           </lido:resourceRepresentation>
           <lido:resourceType>
             <lido:term>Bild</lido:term>
