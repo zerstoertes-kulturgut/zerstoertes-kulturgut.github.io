@@ -5,10 +5,10 @@
       <lido:objectClassificationWrap>
         <lido:objectWorkTypeWrap>
           <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
-            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
+            <lido:term xml:lang="de">Object by condition (zerstört, teilweise zerstört, restauriert etc.)</lido:term>
           </lido:objectWorkType>
-            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
-            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00766">
+            <lido:term xml:lang="de">Object by form (Statue, Kirche etc.)</lido:term>
           </lido:objectWorkType>
         </lido:objectWorkTypeWrap>
         <lido:classificationWrap>

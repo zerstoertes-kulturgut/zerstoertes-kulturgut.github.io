@@ -5,18 +5,12 @@
       <lido:objectClassificationWrap>
         <lido:objectWorkTypeWrap>
           <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00937">
-            <lido:term xml:lang="de">Buddha Statuen</lido:term>
+            <lido:term xml:lang="de">Zerstört</lido:term>
           </lido:objectWorkType>
-            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00767">
-            <lido:term xml:lang="de">Buddha Statuen</lido:term>
+            <lido:objectWorkType lido:type="http://terminology.lido-schema.org/lido00766">
+            <lido:term xml:lang="de">Statuen</lido:term>
           </lido:objectWorkType>
         </lido:objectWorkTypeWrap>
-        <lido:classificationWrap>
-          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
-            <lido:conceptID lido:source="https://www.wikidata.org/wiki/Wikidata:Main_Page" lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q484458</lido:conceptID>
-            <lido:term xml:lang="de">Buddha-Statuen von Bamiyan</lido:term> 
-          </lido:classification>
-        </lido:classificationWrap>
       </lido:objectClassificationWrap>
       <lido:objectIdentificationWrap>
         <lido:titleWrap>
@@ -24,6 +18,7 @@
             <lido:appellationValue lido:pref="preferred" xml:lang="de">Budha-Statuen von Bamiyan</lido:appellationValue>
             <lido:appellationValue lido:pref="preferred" xml:lang="en">Buddhas of Bamiyan</lido:appellationValue>
             <lido:appellationValue lido:pref="preferred" xml:lang="fa">بتهاى بامیان</lido:appellationValue>
+            <lido:sourceAppellation lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q484458</lido:sourceAppellation>
           </lido:titleSet>
         </lido:titleWrap>
         <lido:repositoryWrap>
@@ -39,15 +34,8 @@
         </lido:repositoryWrap>
         <lido:objectDescriptionWrap>
           <lido:objectDescriptionSet>
-            <lido:descriptiveNoteID lido:type="http://terminology.lido-schema.org/lido01110"></lido:descriptiveNoteID>
-            <lido:descriptiveNoteValue>Die berühmten Buddha-Statuen von Bamiyan wurden im 6. Jahrhundert nach Christus von buddhistischen Mönchen aus dem Fels gehauen. Einige dieser Statuen waren bis zu 53 Metern hoch (2). Im März 2001 begannen die Taliban, die Statuen restlos zu zerstören (1). Als 2011 ein Team aus Restauratoren sich nach Bamiyan begab, wurde festgestellt, dass die Statuen nicht mehr zu rekonstruieren waren und es wurde beschlossen, für die Überreste ein Museum zu errichten (2).</lido:descriptiveNoteValue>
-            <lido:sourceDescriptiveNote>
-              <lido:textComplexType>
-                <lido:label number="1">Saber, N., Hao, G. &amp; Lankes, C. (2021). 20 Jahre nach der Sprengung der Buddha-Statuen von Bamiyan. Deutsche Welle. https://p.dw.com/p/3q7cJ</lido:label>
-                <lido:label number="2">Musch-Borowska, B. (2020). Barbarischer Akt religiöser Intoleranz. Deutschlandfunk Kultur. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html</lido:label>
-                <lido:label number="3">Welt (2021). Als die Taliban die Buddhas von Bamiyan sprengten. https://www.welt.de/geschichte/video227879675/20-Jahrestag-Als-die-Taliban-die-Buddhas-von-Bamiyan-sprengten.html </lido:label>
-              </lido:textComplexType>
-            </lido:sourceDescriptiveNote>
+            <lido:descriptiveNoteValue>Die berühmten Buddha-Statuen von Bamiyan wurden im 6. Jahrhundert nach Christus von buddhistischen Mönchen aus dem Fels gehauen. Einige dieser Statuen waren bis zu 53 Metern hoch. Im März 2001 begannen die Taliban, die Statuen restlos zu zerstören. Als 2011 ein Team aus Restauratoren sich nach Bamiyan begab, wurde festgestellt, dass die Statuen nicht mehr zu rekonstruieren waren und es wurde beschlossen, für die Überreste ein Museum zu errichten.</lido:descriptiveNoteValue>
+            <lido:sourceDescriptiveNote>Musch-Borowska, B. (2020). Barbarischer Akt religiöser Intoleranz. Deutschlandfunk Kultur. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html</lido:sourceDescriptiveNote>
           </lido:objectDescriptionSet>
         </lido:objectDescriptionWrap>
       </lido:objectIdentificationWrap>
@@ -55,11 +43,12 @@
         <lido:eventSet>
           <lido:event>
             <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
-              <lido:term>Terrorismus</lido:term>
+              <lido:term>Vollständige Zerstörung</lido:term>
             </lido:eventType>
             <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://lobid.org/gnd/4779711-3 </lido:eventID>
             <lido:eventName>
-              <lido:appellationValue>Zerstörung der Statuen</lido:appellationValue>
+              <lido:appellationValue>Zerstörung der Buddha-Statuen von Bamiyan</lido:appellationValue>
+              <lido:sourceAppellation lido:typ="http://terminology.lido-schema.org/lido00099">https://lobid.org/gnd/4779711-3 </lido:sourceAppellation>
             </lido:eventName>
             <lido:eventActor>
               <lido:actorInRole>
@@ -71,16 +60,9 @@
                 <lido:roleActor>
                   <lido:term>Zerstörer</lido:term>
                 </lido:roleActor>
-                <lido:sourceActorInRole>
-                  <lido:textComplexType>
-                      <lido:label number="1">Saber, N., Hao, G. &amp; Lankes, C. (2021). 20 Jahre nach der Sprengung der Buddha-Statuen von Bamiyan. Deutsche Welle. https://p.dw.com/p/3q7cJ</lido:label>
-                    </lido:textComplexType>
-                </lido:sourceActorInRole>
+                <lido:sourceActorInRole>Saber, N., Hao, G. &amp; Lankes, C. (2021). 20 Jahre nach der Sprengung der Buddha-Statuen von Bamiyan. Deutsche Welle. https://p.dw.com/p/3q7cJ</lido:sourceActorInRole>
               </lido:actorInRole>
             </lido:eventActor>
-            <lido:culture>
-              <lido:term>Auslöschung von Kultur</lido:term>
-            </lido:culture>
             <lido:eventDate>
               <lido:date>
                 <lido:earliestDate>2001-05</lido:earliestDate>
@@ -103,7 +85,7 @@
                 <lido:displayEvent>Diktatur der Taliban</lido:displayEvent>
                 <lido:event>
                   <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q42418</lido:eventID>
-                  <lido:eventType lido:type="http://terminology.lido-schema.org/lido00023"></lido:eventType>
+                  <lido:eventType>Gewaltsame Machübernahme</lido:eventType>
                   <lido:eventName>
                     <lido:appellationValue>Diktatur der Taliban</lido:appellationValue>
                   </lido:eventName>
@@ -141,12 +123,14 @@
               </lido:relatedEvent>
             </lido:relatedEventSet>
             <lido:eventDescriptionSet>
-              <lido:descriptiveNoteValue>Im März 2001 begannen die Taliban, die Statuen restlos zu zerstören. Als 2011 ein Team aus Restauratoren sich nach Bamiyan begab, wurde festgestellt, dass die Statuen nicht mehr zu rekonstruieren waren und es wurde beschlossen, für die Überreste ein Museum zu errichten.</lido:descriptiveNoteValue>
-              <lido:sourceDescriptiveNote>
-                <lido:textComplexType>
-                  <lido:label number="2">Musch-Borowska, B. (2020). Barbarischer Akt religiöser Intoleranz. Deutschlandfunk Kultur. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html</lido:label>
-               </lido:textComplexType>
-            </lido:sourceDescriptiveNote>
+            <lido:descriptiveNoteID>1</lido:descriptiveNoteID>
+              <lido:descriptiveNoteValue>Im März 2001 begannen die Taliban, die Statuen restlos zu zerstören. "Obwohl die Statuen schon längst nicht mehr religiös verehrt wurden, wurden sie von den Taliban als Kulturgegenstände betrachtet, die gegen das islamische Bilderverbot verstießen".Als 2011 ein Team aus Restauratoren sich nach Bamiyan begab, wurde festgestellt, dass die Statuen nicht mehr zu rekonstruieren waren und es wurde beschlossen, für die Überreste ein Museum zu errichten.</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>Musch-Borowska, B. (2020). Barbarischer Akt religiöser Intoleranz. Deutschlandfunk Kultur. https://www.deutschlandfunkkultur.de/zerstoerung-von-kulturstaetten-barbarischer-akt-religioeser-100.html</lido:sourceDescriptiveNote>
+            </lido:eventDescriptionSet>
+            <lido:eventDescriptionSet>
+            <lido:descriptiveNoteID>2</lido:descriptiveNoteID>
+              <lido:descriptiveNoteValue>Mit der Zerstörung wollten die Taliban ein Zeichen gegen Kultur und gegen Toleranz setzen.</lido:descriptiveNoteValue>
+              <lido:sourceDescriptiveNote>Welt (2021). Als die Taliban die Buddhas von Bamiyan sprengten.https://www.welt.de/geschichte/video227879675/20-Jahrestag-Als-die-Taliban-die-Buddhas-von-Bamiyan-sprengten.html</lido:sourceDescriptiveNote>
             </lido:eventDescriptionSet>
           </lido:event>
         </lido:eventSet>
@@ -155,9 +139,7 @@
     <lido:administrativeMetadata>
       <lido:recordWrap>
         <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">Afghanistan/Buddah-Statuen</lido:recordID>
-        <lido:recordType>
-          <lido:term>Einzelobjekt</lido:term>
-        </lido:recordType>
+        <lido:recordType lido:type="http://terminology.lido-schema.org/lido00141">Item-level record</lido:recordType>
         <lido:recordSource>
           <lido:legalBodyName>
             <lido:appellationValue>Universität Trier</lido:appellationValue>
@@ -166,7 +148,7 @@
       </lido:recordWrap>
       <lido:resourceWrap>
         <lido:resourceSet>
-          <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Afghanistan/Buddah-Statuen/Bild1</lido:resourceID>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Afghanistan/Buddah-Statuen/Bild1</lido:resourceID>
           <lido:resourceRepresentation>
             <lido:linkResource>https://de.wikipedia.org/wiki/Buddha-Statuen_von_Bamiyan#/media/Datei:Taller_Buddha_of_Bamiyan_before_and_after_destruction.jpg</lido:linkResource>
           </lido:resourceRepresentation>
@@ -187,6 +169,32 @@
           <lido:rightsResource>
             <lido:rightsType>
               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+              <lido:term>CC BY-SA 4.0</lido:term>
+            </lido:rightsType>
+          </lido:rightsResource>
+        </lido:resourceSet>
+        <lido:resourceSet>
+          <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">Afghanistan/Buddah-Statuen/Bild2</lido:resourceID>
+          <lido:resourceRepresentation>
+            <lido:linkResource>https://en.unesco.org/mediabank/24537/</lido:linkResource>
+          </lido:resourceRepresentation>
+          <lido:resourceType>
+            <lido:term>Bild</lido:term>
+          </lido:resourceType>
+          <lido:resourceDateTaken>
+            <lido:date>
+              <lido:earliestDate>2011</lido:earliestDate>
+            </lido:date>
+          </lido:resourceDateTaken>
+          <lido:resourceSource>
+            <lido:legalBodyName>
+              <lido:appellationValue>UNESCO</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://en.unesco.org/mediabank/</lido:legalBodyWeblink>
+          </lido:resourceSource>
+          <lido:rightsResource>
+            <lido:rightsType>
+              <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri" lido:source="http://creativecommons.org/by-sa/3.0/">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
               <lido:term>CC BY-SA 4.0</lido:term>
             </lido:rightsType>
           </lido:rightsResource>
