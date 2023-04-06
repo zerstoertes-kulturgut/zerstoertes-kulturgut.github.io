@@ -16,8 +16,8 @@
         <lido:titleWrap>
           <lido:titleSet>
             <lido:appellationValue lido:pref="preferred" xml:lang="de">Budha-Statuen von Bamiyan</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="en">Buddhas of Bamiyan</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="fa">بتهاى بامیان</lido:appellationValue>
+            <lido:appellationValue lido:pref="alternate" xml:lang="en">Buddhas of Bamiyan</lido:appellationValue>
+            <lido:appellationValue lido:pref="alternate" xml:lang="fa">بتهاى بامیان</lido:appellationValue>
             <lido:sourceAppellation lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://www.wikidata.org/wiki/Q484458</lido:sourceAppellation>
           </lido:titleSet>
         </lido:titleWrap>
@@ -43,7 +43,7 @@
         <lido:eventSet>
           <lido:event>
             <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
-              <lido:term>Vollständige Zerstörung</lido:term>
+              <lido:term xml:lang="de">Vollständige Zerstörung</lido:term>
             </lido:eventType>
             <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://lobid.org/gnd/4779711-3 </lido:eventID>
             <lido:eventName>
