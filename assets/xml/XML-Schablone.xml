@@ -11,19 +11,13 @@
             <lido:term xml:lang="de">Object by form (Statue, Kirche etc.)</lido:term>
           </lido:objectWorkType>
         </lido:objectWorkTypeWrap>
-        <lido:classificationWrap>
-          <lido:classification lido:type="http://terminology.lido-schema.org/lido00853">
-            <lido:conceptID lido:source="Quelle des Persistent Identifier (wikidata oder GND)" lido:type="http://terminology.lido-schema.org/identifier_type/uri">Ein Persistent Identifier (zB wikidata oder GND)</lido:conceptID>
-            <lido:term xml:lang="de">Bezeichnung des Objekts</lido:term>
-          </lido:classification>
-        </lido:classificationWrap>
       </lido:objectClassificationWrap>
       <lido:objectIdentificationWrap>
         <lido:titleWrap>
           <lido:titleSet>
             <lido:appellationValue lido:pref="preferred" xml:lang="de">deutsche Bezeichnung</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="en">englische Bezeichnung</lido:appellationValue>
-            <lido:appellationValue lido:pref="preferred" xml:lang="Sprachenkürzel einfügen">Bezeichnung der ausgewählten Sprache</lido:appellationValue>
+            <lido:appellationValue lido:pref="alternate" xml:lang="en">englische Bezeichnung</lido:appellationValue>
+            <lido:appellationValue lido:pref="alternate" xml:lang="Sprachenkürzel einfügen">Bezeichnung der ausgewählten Sprache</lido:appellationValue>
           </lido:titleSet>
         </lido:titleWrap>
         <lido:repositoryWrap>
@@ -51,11 +45,12 @@
       <lido:eventWrap>
         <lido:eventSet>
           <lido:event>
-            <lido:eventType>
-              <lido:term>Art des Events (Krieg oder Terrorismus)</lido:term>
+            <lido:eventType lido:type="http://terminology.lido-schema.org/lido00026">
+              <lido:term>Teilweise Zerstörung oder Vollständige Zerstörung</lido:term>
             </lido:eventType>
             <lido:eventName>
-              <lido:appellationValue>Name des Krieges/Anschlags</lido:appellationValue>
+              <lido:appellationValue>Zerstörung von X</lido:appellationValue>
+	      <lido:sourceAppellation lido:typ="http://terminology.lido-schema.org/lido00099">Persistent Identifier</lido:sourceAppellation>
             </lido:eventName>
             <lido:eventActor>
               <lido:actorInRole>
@@ -67,23 +62,15 @@
                 <lido:roleActor>
                   <lido:term>Zerstörer</lido:term>
                 </lido:roleActor>
-                <lido:sourceActorInRole>
-                  <lido:textComplexType>
-                    <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
-                  </lido:textComplexType>
-                </lido:sourceActorInRole>
+                <lido:sourceActorInRole>Quelle in Zitierstil</lido:sourceActorInRole>
               </lido:actorInRole>
             </lido:eventActor>
-            <lido:culture>
-              <lido:term>Art des Events (zB Bürgerkrieg)</lido:term>
-            </lido:culture>
-            <lido:eventDate>
+	    <lido:eventDate>
               <lido:date>
-                <lido:earliestDate>erstes Datum des Events</lido:earliestDate>
-                <lido:latestDate>letztes Datum des Events</lido:latestDate>
+                <lido:earliestDate>Datum der Zerstörung</lido:earliestDate>
               </lido:date>
             </lido:eventDate>
-            <lido:eventPlace>
+	    <lido:eventPlace>
               <lido:place>
                 <lido:namePlaceSet>
                   <lido:appellationValue>Bezeichnung des Ortes des Events</lido:appellationValue>
@@ -150,10 +137,8 @@
     </lido:descriptiveMetadata>
     <lido:administrativeMetadata xml:lang="de">
       <lido:recordWrap>
-        <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">Hier eine lokale ID eintragen</lido:recordID>
-        <lido:recordType>
-          <lido:term>Einzelobjekt</lido:term>
-        </lido:recordType>
+        <lido:recordID lido:type="http://terminology.lido-schema.org/lido00100">Hier eine lokale ID eintragen</lido:recordID>
+        <lido:recordType lido:type="http://terminology.lido-schema.org/lido00141">Item-level record</lido:recordType>
         <lido:recordSource>
           <lido:legalBodyName>
             <lido:appellationValue>Legale Entität</lido:appellationValue>
@@ -162,7 +147,7 @@
       </lido:recordWrap>
       <lido:resourceWrap>
         <lido:resourceSet>
-            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">lokale ID für Bild</lido:resourceID>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/lido00100">lokale ID für Bild</lido:resourceID>
             <lido:resourceRepresentation>
               <lido:linkResource>Quelle zur Ressource (Link)</lido:linkResource>
             </lido:resourceRepresentation>
