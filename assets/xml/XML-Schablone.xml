@@ -127,7 +127,7 @@
               <lido:descriptiveNoteValue>Beschreibung des Events</lido:descriptiveNoteValue>
               <lido:sourceDescriptiveNote>
                 <lido:textComplexType>
-                  <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
+                  <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis und Link, falls vorhanden)</lido:label>
                 </lido:textComplexType>
               </lido:sourceDescriptiveNote>
             </lido:eventDescriptionSet>
