@@ -36,7 +36,7 @@
             <lido:descriptiveNoteValue>Textbeschreibung des Objekts</lido:descriptiveNoteValue>
             <lido:sourceDescriptiveNote>
               <lido:textComplexType>
-                <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis & Link, falls vorhanden)</lido:label>
+                <lido:label number="Nummer der Quelle als Zahl">Quelle (APA-Nachweis &amp; Link, falls vorhanden)</lido:label>
               </lido:textComplexType>
             </lido:sourceDescriptiveNote>
           </lido:objectDescriptionSet>
