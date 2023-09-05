@@ -85,7 +85,7 @@
                 <lido:displayEvent>Diktatur der Taliban</lido:displayEvent>
                 <lido:event>
                   <lido:eventID lido:type="http://terminology.lido-schema.org/lido00099">https://www.wikidata.org/wiki/Q42418</lido:eventID>
-                  <lido:eventType>Gewaltsame Machübernahme</lido:eventType>
+                  <lido:eventType>Gewaltsame Machtübernahme</lido:eventType>
                   <lido:eventName>
                     <lido:appellationValue>Diktatur der Taliban</lido:appellationValue>
                   </lido:eventName>
